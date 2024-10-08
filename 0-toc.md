@@ -2,7 +2,7 @@
 layout: page
 title: Table of Lecture Notes
 nav_order: 0
-nav_exclude: false
+nav_exclude: true
 ---
 
 Table of Lecture Notes

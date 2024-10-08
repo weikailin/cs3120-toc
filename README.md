@@ -5,9 +5,9 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Cryptography
+  name: Theory of Computation
 ---
-
+<!-- 
 Welcome to CS 6222, Cryptography!
 ----------------------------------------
 
@@ -183,4 +183,4 @@ The Joy of Cryptography.
 
 David Evans, Vladimir Kolesnikov and Mike Rosulek.
 A Pragmatic Introduction to Secure Multi-Party Computation.
-[https://securecomputation.org/main/](https://securecomputation.org/main/)
+[https://securecomputation.org/main/](https://securecomputation.org/main/) -->
