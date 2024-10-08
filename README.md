@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 6222 Cryptography
+title: CS3120 Theory of Computation
 nav_exclude: true
 permalink: /:path/
 seo:
