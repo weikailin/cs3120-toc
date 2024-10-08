@@ -79,6 +79,9 @@ compress_html:
 math: katex
 heading_anchors: true
 callouts:
+  highlight:
+    color: yellow
+    title: 'Highlight'
   defn:
     color: green
     # title: Definition
