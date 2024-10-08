@@ -7,6 +7,11 @@ seo:
   type: Course
   name: Theory of Computation
 ---
+
+{: .warning}
+> This site is under construction, and everything is subject to change unless clearly announced.
+
+
 <!-- 
 Welcome to CS 6222, Cryptography!
 ----------------------------------------
