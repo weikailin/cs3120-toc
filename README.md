@@ -8,8 +8,11 @@ seo:
   name: Theory of Computation
 ---
 
-{: .warning}
-> This site is under construction, and everything is subject to change unless clearly announced.
+
+
+
+{: .highlight }
+This site is under construction, and everything is subject to change unless clearly announced.
 
 
 
