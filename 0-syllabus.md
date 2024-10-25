@@ -10,6 +10,7 @@ Syllabus
 
 {: .highlight }
 This syllabus is not yet finalized, and is subject to change until distributed on the first day of class.
+
 <!-- 
 This shall be similar to [https://github.com/uvatoc/uvatoc.github.io/blob/master/src/content/syllabus.md?plain=1] 
 and [https://cs121.boazbarak.org/syllabus/]
@@ -204,7 +205,7 @@ staff and students will see your question there and be able to respond
 to it. We are also working to setup channel for asking questions
 anonymously, and will provide more details on this soon.
 
-Although Discord enables "real time" communication, you should not
+Although Discord enables "realt ime" communication, you should not
 expect instant answers to questions there, but should expect a
 response within 24 hours.
 
@@ -342,8 +343,10 @@ do well.
 **Bonus Points.** We hope students will go beyond
 the provided assignments and do other things to contribute to the
 class as well as beyond. Hence, we give bonus points occasionally.
-That includes (but not limited to) solving _Challenge Problems_ in problem sets, 
+That includes (but not limited to) solving challenge problems in problem sets, 
 reporting bugs in the course materials, and participating in class.
+We will clearly make the bonus points in problems, but in some cases, 
+it is up to the instructor's discretion.
 
 # Honor Expectations
 
