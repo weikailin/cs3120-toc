@@ -10,13 +10,13 @@ Syllabus
 
 {: .highlight }
 This syllabus is not yet finalized, and is subject to change until distributed on the first day of class.
-
+<!-- 
 This shall be similar to [https://github.com/uvatoc/uvatoc.github.io/blob/master/src/content/syllabus.md?plain=1] 
 and [https://cs121.boazbarak.org/syllabus/]
 
 Mark's is good but differ in coursework 
 [https://markfloryan.github.io/dmt2/courselogistics/index.html]
-
+ -->
 
 # Overview
 
@@ -41,7 +41,6 @@ will also look at some applications in cryptography that take
 advantage of problems being hard to solve, and what can be done when a
 problem cannot be solved or is too expensive to solve.
 
-<!-- 
 **Course Objectives:** Students who complete the course will:
 
 - Improve their [mathematical thinking skill and
@@ -49,29 +48,26 @@ problem cannot be solved or is too expensive to solve.
   including thinking precisely about definitions, stating assumptions
   carefully, critically reading arguments, and being able to write
   convincingly.
-
 - Be able to understand both finite and infinite formal models of computation and to reason about what they can and cannot compute.
 - Understand both intuitively and formally what makes some problems either impossible or too expensive to solve with a computer, and what can be done in practice when an unsolvable or intractable problem is encountered.
 - Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems cannot be solved efficiently.
 - Learn about some interesting aspects of theoretical computer science, and why understanding them matters even if you are only interested in building practical computing systems.
 
 <a name="meetings"></a>
-
 **Class Meetings:** The full class meetings of the course are
-  scheduled for Tuesdays and Thursdays, 9:30 &ndash; 10:45am in Olsson
-  120. 
+  scheduled for Tuesdays and Thursdays, 12:30--1:45pm in Rice Hall 130. 
 
 # Preparation
 
 **Official Prerequisites:** To enroll in cs3120, students must have
-  completed CS 3100 (DMT 1) or CS 4102 (Algorithms) with a grade of C-
+  completed CS 3100 (DSA2) or CS 4102 (Algorithms) with a grade of C-
   or better.
 
 **Expected Background:** We expect students entering cs3120 to be
   comfortable using proof techniques from DMT1 including
   proof-by-contradiction, using quantifiers, and induction. From DSA2,
   we expect students to have good understanding of the most common
-  asymptotic operators (<span>&#927;</span> (``big-_O_'') and &Theta;)
+  asymptotic operators (including ``big-_O_'' and $$\Theta$$)
   and how to use them to talk about algorithm costs, reductions, and
   understanding recursive definitions and problem solving.
 
@@ -86,18 +82,17 @@ should take the class.
 
 # Course Staff
 
-**Instructors:** The course is co-taught by [Mohammad
-  Mahmoody](https://www.cs.virginia.edu/~mohammad/)
-  (_mohammad@virginia.edu_) and [David
-  Evans](https://www.cs.virginia.edu/evans)
-  (_evans@virginia.edu_). Feel free to contact either of us with any
+**Instructor:** The course is taught by [Wei-Kai Lin](https://weikailin.github.io/) (wklin-course@virginia.edu).
+  Feel free to contact either of us with any
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
   communications to determine if it would be better to post a message
-  in discord before emailing us). For most course-related questions,
-  it is best if you include both of us in your email.
+  in *TBD-discuss* before emailing us).
 
+**Office Hours:** The full office hours schedule is TBD.
+<!-- available on the [course calendar](/schedule). -->
 
+<!-- 
    <center>
    <div class="row" style="display:flex; width: 100%; flex-wrap: wrap; justify-content: center; padding: 0.5rem;">
    <div class="column small-9 medium-4" style="text-align: center; padding: 0.5rem;"><img class="img-circle" width=85% src="/images/dave.jpg"><br>
@@ -151,8 +146,8 @@ Alexander Sosnkowski</br></div>
 Claire Yoon</br>
 </div>
 </center>
+ -->
 
-**Office Hours:** The full office hours schedule is available on the [course calendar](/schedule).
 
 # Learning Materials
     
@@ -175,26 +170,28 @@ book.
 In addition to the course textbook, a few readings will be assigned
 from other (freely available) sources.
 
+<!-- 
 **Video Lectures:** Materials will include links to relevant (and
   maybe some irrelevant) videos that cover the material students are
   expected to learn in the course. These videos are mostly edited
   recordings of lectures from previous versions of this course, but
   also will include some additional videos and other materials.
+ -->
 
 # Communication
 
 We will primarily use the course website for posting course materials,
-and use the course discord for interactive communications.
+and use the course TBD-discuss for interactive communications.
 
 **Course Website:** We will post all course materials at
-  [_https://uvatoc.github.io_](https://uvatoc.github.io).
+  [https://uvatoc.github.io](https://uvatoc.github.io).
 
 **Course Calendar:** We will keep course deadlines, office hours, and
   other events on a [public google
-  calendar](https://calendar.google.com/calendar/embed?src=d2af9055ec4c15b05e185e3b6e80a786ea2202dddcea9f48a3dd60604348b9a1%40group.calendar.google.com&ctz=America%2FNew_York">). Students
+  calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
-
-**Discord:** We will use the course discord server for most other
+<!-- 
+**TBD-discuss:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
   the `#general` channel as well as any direct messages we send to you
@@ -216,30 +213,31 @@ response within 24 hours.
   content that are relevant to all students. If you have personal
   questions or things to discuss with the course staff, please do this
   by emailing us ([evans@virginia.edu, mohammad@virginia.edu](mailto:evans@virginia.edu,mahmoody@virginia.edu)). 
+ -->
 
 ## Assignments and Exams
 
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
-  Mondays at 9:59pm).  See the course calendar for specific due
+  Fridays at 9:59pm).  See the course calendar for specific due
   dates. Each problem set will include specific directions for how to
   submit your solutions, and we expect students to read and follow
-  these carefully. Each problem set will state a clear
-  collaboration policy (which typically will allow you to discuss
-  problems with others, but require that you write up your solutions
-  by yourself and understand everything in it) and we trust and expect
+  these carefully. Unless otherwise stated in the problem sets, you are allowed to discuss
+  problems with others, but we require that you write up your solutions
+  by yourself and understand everything in it. We trust and expect
   students to follow these policies vigilantly.
-
+<!-- 
 **Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm
   (and posted the day before). These quizzes are designed to be quick
   ways to check your understanding, and will be (mostly) automatically
   graded. Quizzes will be done on your own, without using any resources.
+ -->
 
 **Exams.** We will have two exams in the course:
 
-- **Midterm Exam**: In class on **Thursday, 2 March 2023**.
-- **Final Exam**: **Thursday, 11 May, 2:00pm - 5:00pm**.
+- **Midterm Exam**: In class on **Thursday, 6 March 2023**.
+- **Final Exam**: **Friday, 2 May, 2:00pm - 5:00pm**.
 
 No collaboration is permitted on the exams. Students may construct a
 one-page (letter-size, two-sided) reference sheet for use during the
@@ -256,7 +254,7 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-   [cs3120 Extension Request Form](https://forms.gle/5HSapzRDRen4V4VA7)
+   [TBD cs3120 Extension Request Form]
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
@@ -284,6 +282,13 @@ formula for quantitatively assigning letter grades but do provide a
 formula that can be used to compute a _lower bound_ on the grade you
 receive in the course:
 
+| Item                      | Standard Weighting                          |
+|---------------------------|---------------------------------------------|
+|Problem Sets (10 expected, the weight of individual assignment varies) | 60%     |
+|Midterm Exam               | 20%     |
+|Final Exam                 | 20%     |
+
+<!-- 
 <center>
 <table class="grades" style="width:85%;">
 <thead>
@@ -304,7 +309,7 @@ receive in the course:
 </tbody>
 </table>
 </center>
-
+ -->
 
 With the exception of cases of academic dishonesty or inappropriate
 behavior, we guarantee that you will a grade that is not below the
@@ -334,14 +339,11 @@ overwhelming at times, we are confident that all students who put
 effort into this class and take good advantage of available help will
 do well.
 
-<a name="bonus"></a> **Bonus Points.** We hope students will go beyond
+**Bonus Points.** We hope students will go beyond
 the provided assignments and do other things to contribute to the
-class as well as beyond. We provide some concrete opportunities for
-this in the form of _Challenge Problems_, but also will award bonus
-points for relevant and creative activities that students invent on
-their own. We also offer bounty bonuses for contributions to the
-course textbook: having a Pull Request accepted by the author is worth
-bonus points, even if it is just a simple typo fix.
+class as well as beyond. Hence, we give bonus points occasionally.
+That includes (but not limited to) solving _Challenge Problems_ in problem sets, 
+reporting bugs in the course materials, and participating in class.
 
 # Honor Expectations
 
@@ -355,7 +357,10 @@ all students at the university deserve to be trusted.
 
 To ensure that expectations are clear to everyone, all students are
 required to read, understand, and sign the course pledge:
+TBD
+<!-- 
 [https://uvatoc.github.io/pledge](https://uvatoc.github.io/pledge).
+ -->
 
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
@@ -368,17 +373,16 @@ previous courses, as well as well known problems. The goal of these
 problems is to lead students to develop understanding of the
 underlying concepts by working through the problems themselves and in
 discussions with others, and this goal would be defeated if you
-instead use posted solutions to the problems. Other than using
+instead use posted solutions to the problems (that includes generative AI such as ChatGPT). Other than using
 solutions to the specific problems you are given, students are
 encouraged to use any other resources they find helpful.
   
-The collaboration policy will be described on each assignment
-  document. We aim to make the language describing the policy as clear
-  and unambiguous as possible, but if anything is ever unclear about
-  the stated policy for an assignment, please clarify with the course
-  staff. The penalty for policy violations will be considered on a
-  case-by-case basis, with a penalty commensurate the severity of the
-  offense.
+We aim to make the language describing the policy as clear
+and unambiguous as possible, but if anything is ever unclear about
+the stated policy for an assignment, please clarify with the course
+staff. The penalty for policy violations will be considered on a
+case-by-case basis, with a penalty commensurate the severity of the
+offense.
 
 # Additional Information
 
@@ -394,7 +398,7 @@ The collaboration policy will be described on each assignment
   observance and consider family obligations, personal crises, and
   extraordinary opportunities to all be potentially valid reasons for
   accomodations.  Students who wish to request accommodations should
-  submit their request to Prof. Mahmoody or Prof. Evans as far in
+  submit their request to the instructor as far in
   advance as possible.
 
 If you have questions or concerns about the University policy on
@@ -442,4 +446,5 @@ over the phone, Madison House provides a HELP Line at any hour of any
 day: 434-295-8255.
 
 
+<!-- 
  -->
