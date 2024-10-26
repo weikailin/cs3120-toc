@@ -88,7 +88,7 @@ should take the class.
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
   communications to determine if it would be better to post a message
-  in *TBD-discuss* before emailing us).
+  in *Ed Discussion* before emailing us).
 
 **Office Hours:** The full office hours schedule is TBD.
 <!-- available on the [course calendar](/schedule). -->
@@ -182,7 +182,7 @@ from other (freely available) sources.
 # Communication
 
 We will primarily use the course website for posting course materials,
-and use the course TBD-discuss for interactive communications.
+and use the course Ed Discussion for interactive communications.
 
 **Course Website:** We will post all course materials at
   [https://uvatoc.github.io](https://uvatoc.github.io).
@@ -192,11 +192,12 @@ and use the course TBD-discuss for interactive communications.
   calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 <!-- 
-**TBD-discuss:** We will use the course discord server for most other
+**Ed Discussion:** We will use the course discord server for most other
   course communications (you will receive information on joining the
   server by email). We expect students to receive messages we send to
   the `#general` channel as well as any direct messages we send to you
   on discord. 
+  https://edstem.org/us/courses/68988/discussion/
 
 If you have questions about course materials or assignments that will
 be relevant to other students, please ask them in the `#general`
