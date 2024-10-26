@@ -88,7 +88,7 @@ should take the class.
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
   communications to determine if it would be better to post a message
-  in *Ed Discussion* before emailing us).
+  in [*Ed Discussion*](https://edstem.org/us/courses/68988/discussion/) before emailing us).
 
 **Office Hours:** The full office hours schedule is TBD.
 <!-- available on the [course calendar](/schedule). -->
