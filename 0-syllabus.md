@@ -194,6 +194,7 @@ and use the course Ed Discussion for interactive communications.
   other events on a [public google
   calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
+
 <!-- 
 **Ed Discussion:** We will use the course discord server for most other
   course communications (you will receive information on joining the

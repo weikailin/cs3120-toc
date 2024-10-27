@@ -15,6 +15,11 @@ seo:
 This site is under construction, and everything is subject to change unless clearly announced.
 
 
+{: .highlight }
+**Another section of the same course:**
+[Prof. Floryan also teaches this course on Spring 2025](https://louslist.org/sectiontip.php?Semester=1252&ClassNumber=16064). The two sections use different textbooks and proceed with slightly different topics although the overall goals are similar. The workload of this section shall be similar to the other section, but it is up to the staff's discretion.
+
+
 
 <!-- 
 Welcome to CS 6222, Cryptography!
