@@ -220,7 +220,7 @@ response within 24 hours (even on weekdays).
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
-  Fridays at 9:59pm).  See the course calendar for specific due
+  Fridays at 10:00pm).  See the course calendar for specific due
   dates. Each problem set will include specific directions for how to
   submit your solutions, and we expect students to read and follow
   these carefully. Unless otherwise stated in the problem sets, you are allowed to discuss
@@ -265,7 +265,7 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-   [TBD cs3120 Extension Request Form]
+> [Extension Request Form (TODO: to be provided)]
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
@@ -357,7 +357,7 @@ class as well as beyond. Hence, we give bonus points occasionally.
 That includes (but not limited to) solving challenge problems in problem sets, 
 reporting bugs in the course materials, and participating in class.
 We will clearly make the bonus points in problems, but in some cases, 
-it is up to the instructor's discretion.
+it is up to the instructor's discretion. In general, the staff reserve the right to "bump up" the grades.
 
 ## Honor Expectations
 
@@ -371,7 +371,7 @@ all students at the university deserve to be trusted.
 
 To ensure that expectations are clear to everyone, all students are
 required to read, understand, and sign the course pledge:
-TBD
+[TBD]
 <!-- 
 [https://uvatoc.github.io/pledge](https://uvatoc.github.io/pledge).
  -->
@@ -460,5 +460,10 @@ over the phone, Madison House provides a HELP Line at any hour of any
 day: 434-295-8255.
 
 
-<!-- 
- -->
+## Additional Course Materials
+
+Theory of computation is widely taught in many universities. Hence, you can find many materials, including practice problems and solutions. Here are some links might be useful: 
+- [UVA CS 3120, Spring 2023, by Prof. Evans and Prof. Mahmoody](https://uvatoc.github.io/): This is the "predecessor" of the current course. Actually, many policies and materials are inherited.
+- [UVA CS 3120 by Prof. Floryan](https://markfloryan.github.io/dmt2/readme.html): This is a different section of the same course.
+- [Harvard CS 121 by Prof. Barak](https://cs121.boazbarak.org/): This is the course at Harvard, which is taught by the author of our textbook.
+
