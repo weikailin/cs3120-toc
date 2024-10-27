@@ -79,6 +79,9 @@ compress_html:
 math: katex
 heading_anchors: true
 callouts:
+  caution:
+    color: read
+    title: 'Caution'
   highlight:
     color: yellow
     title: 'Highlight'

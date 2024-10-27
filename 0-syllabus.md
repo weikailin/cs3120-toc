@@ -8,7 +8,7 @@ nav_exclude: false
 Syllabus
 ========
 
-{: .highlight }
+{: .caution }
 This syllabus is not yet finalized, and is subject to change until distributed on the first day of class.
 
 <!-- 
@@ -48,7 +48,7 @@ problem cannot be solved or is too expensive to solve.
   habits](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e),
   including thinking precisely about definitions, stating assumptions
   carefully, critically reading arguments, and being able to write
-  convincingly.
+  convincingly, and being wrong often and admit it.
 - Be able to understand both finite and infinite formal models of computation and to reason about what they can and cannot compute.
 - Understand both intuitively and formally what makes some problems either impossible or too expensive to solve with a computer, and what can be done in practice when an unsolvable or intractable problem is encountered.
 - Reason formally about the cost of computation, and be able to prove useful bounds on the costs of solving problems, including showing that certain problems cannot be solved efficiently.
@@ -63,11 +63,11 @@ problem cannot be solved or is too expensive to solve.
 
 ## Preparation
 
-**Official Prerequisites:** To enroll in cs3120, students must have
+**Official Prerequisites:** To enroll in CS 3120, students must have
   completed CS 3100 (DSA2) or CS 4102 (Algorithms) with a grade of C-
   or better.
 
-**Expected Background:** We expect students entering cs3120 to be
+**Expected Background:** We expect students entering CS 3120 to be
   comfortable using proof techniques from DMT1 including
   proof-by-contradiction, using quantifiers, and induction. From DSA2,
   we expect students to have good understanding of the most common
@@ -90,11 +90,10 @@ should take the class.
   Feel free to contact either of us with any
   questions about the course, computer science, or anything else you
   think we can help with (but please read the section below on
-  communications to determine if it would be better to post a message
+  [communications](#communication) to determine if it would be better to post a message
   in [*Ed Discussion*](https://edstem.org/us/courses/68988/discussion/) before emailing us).
 
-**Office Hours:** The full office hours schedule is TBD.
-<!-- available on the [course calendar](/schedule). -->
+**Office Hours:** The full office hours schedule is not yet determined, but it will be available on the [course calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 <!-- 
    <center>
@@ -188,38 +187,33 @@ We will primarily use the course website for posting course materials,
 and use the course Ed Discussion for interactive communications.
 
 **Course Website:** We will post all course materials at
-  [https://uvatoc.github.io](https://uvatoc.github.io).
+  [https://weikailin.github.io/cs3120-toc](https://weikailin.github.io/cs3120-toc).
 
 **Course Calendar:** We will keep course deadlines, office hours, and
   other events on a [public google
   calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 
-<!-- 
-**Ed Discussion:** We will use the course discord server for most other
-  course communications (you will receive information on joining the
-  server by email). We expect students to receive messages we send to
-  the `#general` channel as well as any direct messages we send to you
-  on discord. 
-  https://edstem.org/us/courses/68988/discussion/
-
+**Ed Discussion:** We will use the [course Ed Discussion server](https://edstem.org/us/courses/68988/discussion/) for most other
+  course communications. We expect students to receive messages we send to
+  the `General` category as well as any direct messages we send to you
+  on Ed. 
+  
 If you have questions about course materials or assignments that will
-be relevant to other students, please ask them in the `#general`
+be relevant to other students, please ask them in the `Problem Sets` or `Lectures`
 channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
-to it. We are also working to setup channel for asking questions
-anonymously, and will provide more details on this soon.
+to it. Asking questions anonymously is allowed.
 
-Although Discord enables "realt ime" communication, you should not
+Although Ed enables "realtime" communication, you should not
 expect instant answers to questions there, but should expect a
-response within 24 hours.
+response within 24 hours (even on weekdays).
 
 **Email:** Managing email for a large class like this is difficult,
-  and you should use the course discord for questions about the course
+  and you should use the course Ed Discussion for questions about the course
   content that are relevant to all students. If you have personal
   questions or things to discuss with the course staff, please do this
-  by emailing us ([evans@virginia.edu, mohammad@virginia.edu](mailto:evans@virginia.edu,mahmoody@virginia.edu)). 
- -->
+  by emailing the instructor ([wklin-course@virginia.edu](mailto:wklin-course@virginia.edu)). 
 
 ## Assignments and Exams
 
