@@ -71,7 +71,7 @@ problem cannot be solved or is too expensive to solve.
   comfortable using proof techniques from DMT1 including
   proof-by-contradiction, using quantifiers, and induction. From DSA2,
   we expect students to have good understanding of the most common
-  asymptotic operators (including ``big-_O_'' and $$\Theta$$)
+  asymptotic operators (including ``big-$$O$$'' and $$\Theta$$)
   and how to use them to talk about algorithm costs, reductions, and
   understanding recursive definitions and problem solving.
 
@@ -235,11 +235,14 @@ response within 24 hours.
   students to follow these policies vigilantly.
 
 **Pre-reading and reflection.** 
-This course (and actually many courses) encourages reading and thinking indepedently.
+This course (and actually many courses) encourages reading and thinking indepedently. Hence, pre-reading and reflection is required.
 For each week, we will post some pre-reading material of the coming week at least on Monday afternoon (ideally the previous Friday). The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short summary, one paragraph at most, before the Tuesday meeting. The summary shall be submitted online and before the class.
 After the Thursday in class meeting, you will be asked to reflect on the material of the past week, and you shall write a short reflection.
 
-We require you to submit a total of 15 pre-reading summaries and reflections (counted together) during the semester. The total is capped at 15. Ideally, your summaries and reflections will become your big picture of this course. Hence, while you do not get extra points after 15, you are still encouraged to submit.
+We require you to submit a total of 15 pre-reading summaries and reflections (counted together) during the semester. 
+The total is capped at 15. This is class participation, so you get points as long as your submission is relevant to the course.
+Because the timing of pre-reading and reclection are essential, we disallow late submission (unless pre-approved by the instructor). 
+Ideally, your summaries and reflections will become your big picture of this course. Hence, even after you have already all 15 points, you are still encouraged to submit weekly.
 
 <!-- 
 **Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm

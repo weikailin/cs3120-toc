@@ -82,6 +82,8 @@ callouts:
   highlight:
     color: yellow
     title: 'Highlight'
+  announce:
+    color: green
   defn:
     color: green
     # title: Definition
