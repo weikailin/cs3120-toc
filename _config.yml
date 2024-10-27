@@ -80,7 +80,7 @@ math: katex
 heading_anchors: true
 callouts:
   caution:
-    color: read
+    color: red
     title: 'Caution'
   highlight:
     color: yellow
