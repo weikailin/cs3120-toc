@@ -234,11 +234,12 @@ response within 24 hours.
   by yourself and understand everything in it. We trust and expect
   students to follow these policies vigilantly.
 
-**Preview and reflection.** 
-This course (and actually many courses) encourages you to think about the goals and purposes of the course material.
-For each week, we will post some partial preview material of the coming week at least on Monday afternoon (ideally the previous Friday). The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short summary of preview, one paragraph at most, before the Tuesday meeting. The preview shall be submitted online and before the class.
-After the Thursday in class meeting, you will be asked to reflect on and recall the course material during week, and you shall write a short reflection.
-We require you to submit totally 15 previews and reflections, and the total is capped at 15. While you do not get extra points after 15, you are still encouraged to submit.
+**Pre-reading and reflection.** 
+This course (and actually many courses) encourages reading and thinking indepedently.
+For each week, we will post some pre-reading material of the coming week at least on Monday afternoon (ideally the previous Friday). The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short summary, one paragraph at most, before the Tuesday meeting. The summary shall be submitted online and before the class.
+After the Thursday in class meeting, you will be asked to reflect on the material of the past week, and you shall write a short reflection.
+
+We require you to submit a total of 15 pre-reading summaries and reflections (counted together) during the semester. The total is capped at 15. Ideally, your summaries and reflections will become your big picture of this course. Hence, while you do not get extra points after 15, you are still encouraged to submit.
 
 <!-- 
 **Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm
@@ -297,7 +298,7 @@ receive in the course:
 
 | Item                      | Standard Weighting                          |
 |---------------------------|---------------------------------------------|
-|Preview and reflection     | 15%     |
+|Pre-reading and reflection     | 15%     |
 |Problem Sets (10 expected, the weight of individual assignment varies) | 50%     |
 |Midterm Exam               | 15%     |
 |Final Exam                 | 20%     |
