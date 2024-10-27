@@ -19,7 +19,7 @@ Mark's is good but differ in coursework
 [https://markfloryan.github.io/dmt2/courselogistics/index.html]
  -->
 
-# Overview
+## Overview
 
 **Course Description:** The goal of this course is to understand the
 fundamental limits on what can be efficiently computed in our
@@ -58,7 +58,10 @@ problem cannot be solved or is too expensive to solve.
 **Class Meetings:** The full class meetings of the course are
   scheduled for Tuesdays and Thursdays, 12:30--1:45pm in Rice Hall 130. 
 
-# Preparation
+**Another section of the same course:**
+[Prof. Floryan also teaches this course on Spring 2025](https://louslist.org/sectiontip.php?Semester=1252&ClassNumber=16064). The two sections use different textbooks and proceed with slightly different topics although the overall goals are similar. The workload of this section shall be similar to the other section, but it is up to the staff's discretion.
+
+## Preparation
 
 **Official Prerequisites:** To enroll in cs3120, students must have
   completed CS 3100 (DSA2) or CS 4102 (Algorithms) with a grade of C-
@@ -81,7 +84,7 @@ Python programs on your own. If you do not satisfy the prerequisites,
 you should meet with one of the instructors to discuss whether you
 should take the class. 
 
-# Course Staff
+## Course Staff
 
 **Instructor:** The course is taught by [Wei-Kai Lin](https://weikailin.github.io/) (wklin-course@virginia.edu).
   Feel free to contact either of us with any
@@ -150,7 +153,7 @@ Claire Yoon</br>
  -->
 
 
-# Learning Materials
+## Learning Materials
     
 **Textbook:** Boaz Barak, [_Introduction to Theoretical Computer Science_](https://introtcs.org/public/index.html).
 
@@ -179,7 +182,7 @@ from other (freely available) sources.
   also will include some additional videos and other materials.
  -->
 
-# Communication
+## Communication
 
 We will primarily use the course website for posting course materials,
 and use the course Ed Discussion for interactive communications.
@@ -229,6 +232,13 @@ response within 24 hours.
   problems with others, but we require that you write up your solutions
   by yourself and understand everything in it. We trust and expect
   students to follow these policies vigilantly.
+
+**Preview and reflection.** 
+This course (and actually many courses) encourages you to think about the goals and purposes of the course material.
+For each week, we will post some partial preview material of the coming week at least on Monday afternoon (ideally the previous Friday). The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short summary of preview, one paragraph at most, before the Tuesday meeting. The preview shall be submitted online and before the class.
+After the Thursday in class meeting, you will be asked to reflect on and recall the course material during week, and you shall write a short reflection.
+We require you to submit totally 15 previews and reflections, and the total is capped at 15. While you do not get extra points after 15, you are still encouraged to submit.
+
 <!-- 
 **Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm
   (and posted the day before). These quizzes are designed to be quick
@@ -286,8 +296,9 @@ receive in the course:
 
 | Item                      | Standard Weighting                          |
 |---------------------------|---------------------------------------------|
-|Problem Sets (10 expected, the weight of individual assignment varies) | 60%     |
-|Midterm Exam               | 20%     |
+|Preview and reflection     | 15%     |
+|Problem Sets (10 expected, the weight of individual assignment varies) | 50%     |
+|Midterm Exam               | 15%     |
 |Final Exam                 | 20%     |
 
 <!-- 
@@ -349,7 +360,7 @@ reporting bugs in the course materials, and participating in class.
 We will clearly make the bonus points in problems, but in some cases, 
 it is up to the instructor's discretion.
 
-# Honor Expectations
+## Honor Expectations
 
 We believe strongly in the value of a community of trust, and expect
 all of the students in this class to contribute to strengthening and
@@ -388,7 +399,7 @@ staff. The penalty for policy violations will be considered on a
 case-by-case basis, with a penalty commensurate the severity of the
 offense.
 
-# Additional Information
+## Additional Information
 
 **Special Circumstances:** The University of Virginia strives to provide accessibility to all students. If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at (434) 243-5180 or `sdac@virginia.edu`. If you are unsure if you require an accommodation, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website [https://studenthealth.virginia.edu/sdac](https://studenthealth.virginia.edu/sdac)
 
