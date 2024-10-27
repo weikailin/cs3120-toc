@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS3120 Theory of Computation
+title: CS3120 Theory of Computation (UVA)
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -9,7 +9,7 @@ seo:
 ---
 
 
-CS 3120 Theory of Computation (Wei-Kai Lin)
+UVA CS 3120 Theory of Computation (Wei-Kai Lin)
 ----------------------------------------
 This is the course website of CS 3120 (also called Discrete Mathematics and Theory 2), instructed by Prof. Lin. The meetings are [Tuesdays and Thursdays at **12:30 - 1:45pm** Spring 2025](https://louslist.org/sectiontip.php?Semester=1252&ClassNumber=19555) and in Rice Hall 130. (Clarification: the course of Prof. Floryan is [different](https://louslist.org/sectiontip.php?Semester=1252&ClassNumber=16064).)
 
