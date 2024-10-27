@@ -24,9 +24,11 @@ This site is under construction, and everything is subject to change unless clea
 ## Recent Announcements
 
 {:announce-title}
-> Oct 27, 2024
+> Tentative syllabus posted
 > 
 > The enrollment is starting soon. Please take a look at [the syllabus](0-syllabus.md) if you have any questions (and be forgiving if something changes later).
+> 
+> Oct 27, 2024.
 
 
 
