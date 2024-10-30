@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-nav_order: 0
+nav_order: 100
 nav_exclude: true
 ---
 
