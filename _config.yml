@@ -87,6 +87,7 @@ callouts:
     title: 'Highlight'
   announce:
     color: green
+    title: 'Announcement'
   defn:
     color: green
     # title: Definition
