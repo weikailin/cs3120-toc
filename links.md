@@ -17,3 +17,6 @@ https://calendar.google.com/calendar/ical/292e8ddb35fbfb071102435db2822547ef891a
 
 https://uvacsadvising.org/assets/images/cs_logo.png
 https://uvacsadvising.org/favicon.ico
+
+[Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+
