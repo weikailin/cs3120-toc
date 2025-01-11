@@ -101,29 +101,22 @@ should take the class.
 
 {: style="text-align: center;"}
 Haolin Liu
-
 <!-- ![Haolin](assets/images/uva-eng.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"} -->
 
 {: style="text-align: center;"}
 Alice Wanner
-
 <!-- ![Alice](alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"} -->
-
-
 
 {: style="text-align: center;"}
 Liran Li
-
 ![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Ethan Klose
 ![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
-
 {: style="text-align: center;"}
 Nicole Cheban
-
 <!-- ![Nicole](nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"} -->
 
 <!-- 
