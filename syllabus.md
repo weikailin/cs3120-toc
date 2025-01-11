@@ -96,16 +96,39 @@ should take the class.
 **Office Hours:** The full office hours schedule is not yet determined, but it will be available on the [course calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 
-![Wei-Kai](assets/images/20231027-wei-kai-lin-square){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+![Wei-Kai](assets/images/20231027-wei-kai-lin-square.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
 
 
 **Teaching Assisants:** 
 <div>
-![Haolin](img/haolin.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+![Haolin](haolin.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
 
 Haolin Liu
 </div>
 
+<div>
+![Alice](alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+
+Alice Wanner
+</div>
+
+<div>
+![Liran](liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+
+Liran Li
+</div>
+
+<div>
+![Ethan](ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+
+Ethan Klose
+</div>
+
+<div>
+![Nicole](nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+
+Nicole Cheban
+</div>
 
 <!-- 
    <center>
