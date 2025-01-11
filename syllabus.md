@@ -110,12 +110,13 @@ Alice Wanner
 </div>
 
 <div>
-![Liran](liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
 
 Liran Li
 </div>
 
 <div style="text-align: center;">
+
 ![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 Ethan Klose
