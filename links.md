@@ -20,3 +20,4 @@ https://uvacsadvising.org/favicon.ico
 
 [Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
+Join Ed Education [here: https://edstem.org/us/join/3DvewM](https://edstem.org/us/join/3DvewM)

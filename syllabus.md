@@ -98,10 +98,11 @@ should take the class.
 ![Wei-Kai](assets/images/20231027-wei-kai-lin-square.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 **Teaching Assisants:** 
-<div style="text-align: center;">
-![Haolin](assets/images/uva-eng.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+
+{: style="text-align: center;"}
 Haolin Liu
-</div>
+
+![Haolin](assets/images/uva-eng.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 <div>
 ![Alice](alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
@@ -109,18 +110,19 @@ Haolin Liu
 Alice Wanner
 </div>
 
-<div>
+<div style="text-align: center;">
+
 ![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
 
 Liran Li
 </div>
 
-<div style="text-align: center;">
+
+{: style="text-align: center;"}
+Ethan Klose
 
 ![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
-Ethan Klose
-</div>
 
 <div>
 ![Nicole](nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
