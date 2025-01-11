@@ -105,7 +105,7 @@ Haolin Liu
 
 {: style="text-align: center;"}
 Alice Wanner
-<!-- ![Alice](alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"} -->
+![Alice](assets/images/alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Liran Li
