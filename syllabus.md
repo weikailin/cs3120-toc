@@ -95,14 +95,11 @@ should take the class.
 
 **Office Hours:** The full office hours schedule is not yet determined, but it will be available on the [course calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
-
-![Wei-Kai](assets/images/20231027-wei-kai-lin-square.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
-
+![Wei-Kai](assets/images/20231027-wei-kai-lin-square.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 **Teaching Assisants:** 
-<div>
-![Haolin](haolin.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
-
+<div style="text-align: center;">
+![Haolin](assets/images/uva-eng.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 Haolin Liu
 </div>
 
