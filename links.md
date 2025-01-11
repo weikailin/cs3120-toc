@@ -14,10 +14,11 @@ https://calendar.google.com/calendar/embed?src=292e8ddb35fbfb071102435db2822547e
 
 Google calendar, iCal:
 https://calendar.google.com/calendar/ical/292e8ddb35fbfb071102435db2822547ef891ab66dfd7eb00e075e0ea54a45bd%40group.calendar.google.com/public/basic.ics
-
-https://uvacsadvising.org/assets/images/cs_logo.png
-https://uvacsadvising.org/favicon.ico
-
 [Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
 Join Ed Education [here: https://edstem.org/us/join/3DvewM](https://edstem.org/us/join/3DvewM)
+
+<!-- 
+https://uvacsadvising.org/assets/images/cs_logo.png
+https://uvacsadvising.org/favicon.ico
+ -->
