@@ -114,11 +114,10 @@ Alice Wanner
 {: style="text-align: center;"}
 Liran Li
 
-![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Ethan Klose
-
 ![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 
