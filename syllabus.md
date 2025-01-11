@@ -246,7 +246,7 @@ For each week, we will post some pre-reading material of the coming week at leas
 After the Thursday in class meeting, you will be asked to reflect on the material of the past week, and you shall write a short reflection.
 
 We require you to submit a total of 15 pre-reading summaries and reflections (counted together) during the semester. 
-The total is capped at 15. This is class participation, so you get points as long as your submission is relevant to the course.
+The total is capped at 15. This is class participation, so you will likely get points as long as your submission is relevant to the course.
 Because the timing of pre-reading and reclection are essential, we disallow late submission (unless pre-approved by the instructor). 
 Ideally, your summaries and reflections will become your big picture of this course. Hence, even after you have already all 15 points, you are still encouraged to submit weekly.
 
@@ -307,9 +307,9 @@ receive in the course:
 
 | Item                      | Standard Weighting                          |
 |---------------------------|---------------------------------------------|
-|Pre-reading and reflection     | 15%     |
+|Pre-reading and reflection     | 12%     |
 |Problem Sets (10 expected, the weight of individual assignment varies) | 50%     |
-|Midterm Exam               | 15%     |
+|Midterm Exam               | 18%     |
 |Final Exam                 | 20%     |
 
 <!-- 
