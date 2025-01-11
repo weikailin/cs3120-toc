@@ -115,8 +115,8 @@ Alice Wanner
 Liran Li
 </div>
 
-<div>
-![Ethan](ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"}
+<div style="text-align: center;">
+![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 Ethan Klose
 </div>
