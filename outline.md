@@ -14,7 +14,7 @@ Course outline, tentative:
 - Reductions. (2 classes)
 - Complexity, completeness, NP. (5 classes)
 
-Meeting dates based on UVA academic calendar (please refer to the Google calendar for updates):
+Meeting dates based on [UVA academic calendar](https://registrar.virginia.edu/calendar/academic/2024-2025) (please refer to the Google calendar for updates):
 - Jan 14, 16
 - Jan 21, 23
 - Jan 28, 30
