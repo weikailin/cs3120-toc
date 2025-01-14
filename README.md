@@ -24,6 +24,17 @@ This site is under construction, and everything is subject to change unless clea
 ## Recent Announcements
 
 {: .announce-title}
+> Class 1: Introduction
+> 
+> We covered the goal of this course and the coursework.
+> 
+> The slides are [posted](assets/pdf/cs3120-class1.pdf).
+> 
+> Please remember to finish the Registration Survey.
+> 
+> Jan 14, 2025
+
+{: .announce-title}
 > Tentative syllabus posted
 > 
 > The enrollment is starting soon. Please take a look at [the syllabus](syllabus.md) if you have any questions (and be forgiving if something changes later).
