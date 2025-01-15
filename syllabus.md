@@ -101,7 +101,7 @@ should take the class.
 
 {: style="text-align: center;"}
 Haolin Liu
-<!-- ![Haolin](assets/images/uva-eng.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"} -->
+![Haolin](assets/images/haolin.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Alice Wanner
@@ -117,7 +117,7 @@ Ethan Klose
 
 {: style="text-align: center;"}
 Nicole Cheban
-<!-- ![Nicole](nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 50%;"} -->
+![Nicole](assets/images/nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 <!-- 
    <center>
