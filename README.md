@@ -30,7 +30,7 @@ This site is under construction, and everything is subject to change unless clea
 > 
 > We also discussed good / bad definitions, natural numbers, and constructive difinition. The slides are [here](assets/pdf/cs3120-class2-ink.pdf).
 > 
-> PRR1 is released, and PS1 is also released in [PDF](assets/pdf/cs3120-ps1.pdf) and [Latex template](https://www.overleaf.com/read/qjqncgcjmvgw#6a8554)
+> PRR1 is released, and PS1 is also released in [PDF](assets/pdf/cs3120-ps1.pdf) and [Latex template](https://www.overleaf.com/read/qjqncgcjmvgw#6a8554).
 > 
 > Jan 16, 2025
 
