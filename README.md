@@ -24,6 +24,17 @@ This site is under construction, and everything is subject to change unless clea
 ## Recent Announcements
 
 {: .announce-title}
+> Class 2: Definitions and Proofs
+> 
+> The most important point today: making sure you do NOT suffer, NOT lie, NOT cheating, NOR stealing.
+> 
+> We also discussed good / bad definitions, natural numbers, and constructive difinition. The slides are [here](assets/pdf/cs3120-class2-ink.pdf).
+> 
+> PRR1 is released, and PS1 is also released in [PDF](assets/pdf/cs3120-ps1.pdf) and [Latex template](https://www.overleaf.com/read/qjqncgcjmvgw#6a8554)
+> 
+> Jan 16, 2025
+
+{: .announce-title}
 > Class 1: Introduction
 > 
 > We covered the goal of this course and the coursework.
