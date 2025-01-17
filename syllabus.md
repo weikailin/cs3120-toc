@@ -244,7 +244,7 @@ response within 24 hours (even on weekdays).
 **Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
-  Mondays at 10:00pm).  See the course calendar for specific due
+  Fridays at 10:00pm).  See the course calendar for specific due
   dates. Each problem set will include specific directions for how to
   submit your solutions, and we expect students to read and follow
   these carefully. Unless otherwise stated in the problem sets, you are allowed to discuss
@@ -254,7 +254,7 @@ response within 24 hours (even on weekdays).
 
 **Pre-reading and reflection.** 
 This course (and actually many courses) encourages reading and thinking indepedently. Hence, pre-reading and reflection is required.
-For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Fridays. 
+For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays. 
 Also in the same survey, you will be asked to reflect on the material of the past week.
 
 We require you to submit a total of 12 pre-reading and reflections survey during the semester. 
