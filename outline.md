@@ -7,8 +7,8 @@ nav_exclude: false
 
 Course outline, tentative: 
 - Introduction, sets, defining computation. (4-5 classes)
-  - Class 1: Introduction. [Slides](assets/pdf/cs3120-class1.pdf).  ---[&#x1F4D6; Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
-  - Class 2: Definitions. [Slides](assets/pdf/cs3120-class2-ink.pdf).  ---[Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html). ---[&#x1F3E0; PS1](assets/pdf/cs3120-ps1.pdf).
+  - Class 1: Introduction. [Slides](assets/pdf/cs3120-class1.pdf).  ---[&#x1F4D6;Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
+  - Class 2: Definitions. [Slides](assets/pdf/cs3120-class2-ink.pdf).  ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html). ---[&#x1F3E0;PS1](assets/pdf/cs3120-ps1.pdf).
   - **---- (Tentatvie below) ----**
   - Class 3: Sets, numbers, strings.
   - Class 4: Cantor's theorem, countable and uncountable, functions.
@@ -22,6 +22,11 @@ Course outline, tentative:
 - Turing machines, computability. (4 classes)
 - Reductions. (2 classes)
 - Complexity, completeness, NP. (5 classes)
+
+<!-- HTML symbols: 
+x1F4D6: open book
+x1F3E0: house
+https://www.w3schools.com/charsets/ref_emoji_office.asp -->
 
 Meeting dates based on [UVA academic calendar](https://registrar.virginia.edu/calendar/academic/2024-2025) (please refer to the Google calendar for updates):
 - Week 1: Jan 14, 16
