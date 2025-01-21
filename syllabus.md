@@ -8,9 +8,6 @@ nav_exclude: false
 Syllabus
 ========
 
-{: .caution }
-This syllabus is not yet finalized, and is subject to change until distributed on the first day of class.
-
 <!-- 
 This shall be similar to [https://github.com/uvatoc/uvatoc.github.io/blob/master/src/content/syllabus.md?plain=1] 
 and [https://cs121.boazbarak.org/syllabus/]
@@ -487,3 +484,7 @@ Theory of computation is widely taught in many universities. Hence, you can find
 - [UVA CS 3120 by Prof. Floryan](https://markfloryan.github.io/dmt2/readme.html): This is a different section of the same course.
 - [Harvard CS 121 by Prof. Barak](https://cs121.boazbarak.org/): This is the course at Harvard, which is taught by the author of our textbook.
 
+{: .caution }
+This syllabus is lightly modified after the first day of class. You may find the changes on [GitHub repo](https://github.com/weikailin/cs3120-toc). Roughly, they are:
+the expected due dates of homework, 
+the link to extension form.
