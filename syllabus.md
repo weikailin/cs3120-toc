@@ -254,7 +254,7 @@ response within 24 hours (even on weekdays).
 
 **Pre-reading and reflection.** 
 This course (and actually many courses) encourages reading and thinking indepedently. Hence, pre-reading and reflection is required.
-For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays. 
+For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays at 10pm. 
 Also in the same survey, you will be asked to reflect on the material of the past week.
 
 We require you to submit a total of 12 pre-reading and reflections survey during the semester. 
