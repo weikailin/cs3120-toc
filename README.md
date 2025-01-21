@@ -26,7 +26,9 @@ This site is under construction, and everything is subject to change unless clea
 {: .announce-title}
 > Class 3: Binary representations and Cardinality
 > 
-> The slides are [here](assets/pdf/cs3120-class3-ink.pdf).
+> It worths repeating: The best way to learn in this class is to ask and answer questions. We know it is challenging given the number of people in the same classroom. However, we can extend that to TA/office hours, online discussion, and more.
+> 
+> Today we talked more on constructive definitions and cardinality of sets. The slides are [here](assets/pdf/cs3120-class3-ink.pdf).
 > 
 > Jan 21, 2025
 
