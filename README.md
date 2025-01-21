@@ -28,7 +28,7 @@ This site is under construction, and everything is subject to change unless clea
 > 
 > The slides are [here](assets/pdf/cs3120-class3-ink.pdf).
 > 
-> Jan 121, 2025
+> Jan 21, 2025
 
 {: .announce-title}
 > Class 2: Definitions and Proofs
