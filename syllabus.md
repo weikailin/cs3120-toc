@@ -289,7 +289,7 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-> [Extension Request Form (TODO: to be provided)]
+> [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd66tvf2udQvh9fC0dJ-bWNmfN5VCbnchb5lZv8z0euO6OdiQ/viewform?usp=sharing)
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
