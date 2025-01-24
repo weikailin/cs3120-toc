@@ -8,9 +8,6 @@ nav_exclude: false
 Syllabus
 ========
 
-{: .caution }
-This syllabus is not yet finalized, and is subject to change until distributed on the first day of class.
-
 <!-- 
 This shall be similar to [https://github.com/uvatoc/uvatoc.github.io/blob/master/src/content/syllabus.md?plain=1] 
 and [https://cs121.boazbarak.org/syllabus/]
@@ -254,7 +251,7 @@ response within 24 hours (even on weekdays).
 
 **Pre-reading and reflection.** 
 This course (and actually many courses) encourages reading and thinking indepedently. Hence, pre-reading and reflection is required.
-For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays. 
+For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays at 10pm. 
 Also in the same survey, you will be asked to reflect on the material of the past week.
 
 We require you to submit a total of 12 pre-reading and reflections survey during the semester. 
@@ -289,7 +286,7 @@ respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
 extension. To request an extension, use this form:
 
-> [Extension Request Form (TODO: to be provided)]
+> [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd66tvf2udQvh9fC0dJ-bWNmfN5VCbnchb5lZv8z0euO6OdiQ/viewform?usp=sharing)
    
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
@@ -487,3 +484,7 @@ Theory of computation is widely taught in many universities. Hence, you can find
 - [UVA CS 3120 by Prof. Floryan](https://markfloryan.github.io/dmt2/readme.html): This is a different section of the same course.
 - [Harvard CS 121 by Prof. Barak](https://cs121.boazbarak.org/): This is the course at Harvard, which is taught by the author of our textbook.
 
+{: .caution }
+This syllabus is lightly modified after the first day of class. You may find the changes on [GitHub repo](https://github.com/weikailin/cs3120-toc). Roughly, they are:
+the expected due dates of homework, 
+the link to extension form.

@@ -24,6 +24,24 @@ This site is under construction, and everything is subject to change unless clea
 ## Recent Announcements
 
 {: .announce-title}
+> Class 4: Infinite Sets
+> 
+> We discussed the cardinality of infinite sets, inclulding countable, uncountable, and power sets. The slides are [here](assets/pdf/cs3120-class4-ink.pdf).
+> 
+> [PS2](https://colab.research.google.com/drive/1C3WkLMtxUBjmi5mN5njrPfKLTBQ6KpcJ?usp=sharing) is due next Friday, 10:00pm. PRR2 is posted on Gradescope and due next Monday, 10:00pm. 
+> 
+> Jan 23, 2025
+
+{: .announce-title}
+> Class 3: Binary representations and Cardinality
+> 
+> It worths repeating: The best way to learn in this class is to ask and answer questions. We know it is challenging given the number of people in the same classroom. However, we can extend that to TA/office hours, online discussion, and more.
+> 
+> Today we talked more on constructive definitions and cardinality of sets. The slides are [here](assets/pdf/cs3120-class3-ink.pdf).
+> 
+> Jan 21, 2025
+
+{: .announce-title}
 > Class 2: Definitions and Proofs
 > 
 > The most important point today: making sure you do NOT suffer, NOT lie, NOT cheating, NOR stealing.
