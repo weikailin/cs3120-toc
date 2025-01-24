@@ -9,9 +9,9 @@ Course outline, tentative:
 - Introduction, sets, defining computation. (4-5 classes)
   - Class 1: Introduction. [Slides](assets/pdf/cs3120-class1.pdf).  ---[&#x1F4D6;Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
   - Class 2: Definitions. [Slides](assets/pdf/cs3120-class2-ink.pdf).  ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html). ---[&#x1F3E0;PS1](assets/pdf/cs3120-ps1.pdf).
+  - Class 3: Sets, numbers, strings. [Slides](assets/pdf/cs3120-class3-ink.pdf). ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
+  - Class 4: Cantor's theorem, countable and uncountable, functions. [Slides](assets/pdf/cs3120-class4-ink.pdf). ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec). ---[&#x1F3E0;PS2](https://colab.research.google.com/drive/1C3WkLMtxUBjmi5mN5njrPfKLTBQ6KpcJ?usp=sharing).
   - **---- (Tentatvie below) ----**
-  - Class 3: Sets, numbers, strings.
-  - Class 4: Cantor's theorem, countable and uncountable, functions.
 - Boolean circuits, universal circuits, and circuit complexity. (5 classes)
   - Class 5: Boolean gates. [Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
   - Class 6: More gates, computing every function. [Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html).
