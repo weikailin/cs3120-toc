@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 5: Cantor's Theorem, Computation
+> 
+> We finished Cantor's Theorem and the "representations" of objects. The slides are [here](assets/pdf/cs3120-class5-ink.pdf).
+> 
+> Jan 28, 2025
+
+{: .announce-title}
 > Class 4: Infinite Sets
 > 
 > We discussed the cardinality of infinite sets, inclulding countable, uncountable, and power sets. The slides are [here](assets/pdf/cs3120-class4-ink.pdf).
