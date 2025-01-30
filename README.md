@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 6: Computation Models, Universality
+> 
+> We discuss what are computation models, how are different models compared, and using boolean circuits to compute any finite function. The slides are [here](assets/pdf/cs3120-class6-ink.pdf).
+> 
+> [PS3](assets/pdf/cs3120-ps3.pdf) and [its template](https://www.overleaf.com/read/ncsjqgfrjfys#f36733) are posted. Also, please work on PRR3 before 10pm on the next Monday. 
+> 
+> Jan 30, 2025
+
+{: .announce-title}
 > Class 5: Cantor's Theorem, Computation
 > 
 > We finished Cantor's Theorem and the "representations" of objects. The slides are [here](assets/pdf/cs3120-class5-ink.pdf).
