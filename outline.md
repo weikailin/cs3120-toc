@@ -11,10 +11,10 @@ Course outline, tentative:
   - Class 2: Definitions. [Slides](assets/pdf/cs3120-class2-ink.pdf).  ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html). ---[&#x1F3E0;PS1](assets/pdf/cs3120-ps1.pdf).
   - Class 3: Sets, numbers, strings. [Slides](assets/pdf/cs3120-class3-ink.pdf). ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
   - Class 4: Cantor's theorem, countable and uncountable, functions. [Slides](assets/pdf/cs3120-class4-ink.pdf). ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec). ---[&#x1F3E0;PS2](https://colab.research.google.com/drive/1C3WkLMtxUBjmi5mN5njrPfKLTBQ6KpcJ?usp=sharing).
-  - **---- (Tentatvie below) ----**
 - Boolean circuits, universal circuits, and circuit complexity. (5 classes)
-  - Class 5: Boolean gates. [Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
-  - Class 6: More gates, computing every function. [Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html).
+  - Class 5: Cantor's Theorem, computation. [Slides](assets/pdf/cs3120-class5-ink.pdf). ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
+  - Class 6: Computation models, universality. [Slides](assets/pdf/cs3120-class6-ink.pdf). ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html). ---[&#x1F3E0;PS3](assets/pdf/cs3120-ps3.pdf)
+  - **---- (Tentatvie below) ----**
   - Class 7: Circuits vs functions
   - Class 8: Universal circuits [Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html)
 - Finite automata, regular expression. (4 classes)
