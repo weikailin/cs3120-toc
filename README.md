@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 7: Universality and Circuit Size
+> 
+> We finished the universal ways to compute every finite function, and then we moved to circuit size, that is, complexity. The slides are [here](assets/pdf/cs3120-class7-ink.pdf).
+> 
+> Feb 4, 2025
+
+{: .announce-title}
 > Class 6: Computation Models, Universality
 > 
 > We discuss what are computation models, how are different models compared, and using boolean circuits to compute any finite function. The slides are [here](assets/pdf/cs3120-class6-ink.pdf).
