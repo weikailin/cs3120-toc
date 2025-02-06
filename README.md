@@ -25,7 +25,7 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > 
 > We went over Problem 1 of PS1. Then, we defined the circuit size classes and discussed the representation of circuits. The slides are [here](assets/pdf/cs3120-class8-ink.pdf).
 > 
-> PRR4 is released on Gradescope, and you are asked to take a look at the [History of Math course](https://sites.math.rutgers.edu/~alexk/2024F101/) by Professor Alex Kontorovich.
+> PRR4 is released on Gradescope, and you are asked to take a look at the [History of Math course](https://sites.math.rutgers.edu/~alexk/2024F101/) by Professor Alex Kontorovich. PS4 is a written assignment, given in [PDF](assets/pdf/cs3120-ps4.pdf) and [Overleaf template](https://www.overleaf.com/read/ggsvhxdwnxbg#34b764).
 > 
 > Feb 6, 2025
 
