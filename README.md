@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 8: Circuit Size, Representing Circuits
+> 
+> We went over Problem 1 of PS1. Then, we defined the circuit size classes and discussed the representation of circuits. The slides are [here](assets/pdf/cs3120-class8-ink.pdf).
+> 
+> PRR4 is released on Gradescope, and you are asked to take a look at the [History of Math course](https://sites.math.rutgers.edu/~alexk/2024F101/) by Professor Alex Kontorovich.
+> 
+> Feb 6, 2025
+
+{: .announce-title}
 > Class 7: Universality and Circuit Size
 > 
 > We finished the universal ways to compute every finite function, and then we moved to circuit size, that is, complexity. The slides are [here](assets/pdf/cs3120-class7-ink.pdf).
