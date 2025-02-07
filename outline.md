@@ -14,10 +14,13 @@ Course outline, tentative:
 - Boolean circuits, universal circuits, and circuit complexity. (5 classes)
   - Class 5: Cantor's Theorem, computation. [Slides](assets/pdf/cs3120-class5-ink.pdf). ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
   - Class 6: Computation models, universality. [Slides](assets/pdf/cs3120-class6-ink.pdf). ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html). ---[&#x1F3E0;PS3](assets/pdf/cs3120-ps3.pdf)
+  - Class 7: Universality, circuit size. --[&#x1F4D6;Barak, Sec 4.6](https://introtcs.org/public/lec_03a_computing_every_function.html).
+  - Class 8: Circuits vs functions, program as data. --[&#x1F4D6;Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html)
   - **---- (Tentatvie below) ----**
-  - Class 7: Circuits vs functions
-  - Class 8: Universal circuits [Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html)
+  - Class 9: Size hierarchy. --[&#x1F4D6;Barak, Sec 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec)
+  - Class 10: Universal circuit.  --[&#x1F4D6;Barak, Sec 5.4](https://introtcs.org/public/lec_04_code_and_data.html#a-nand-circ-interpreter-in-nand-circ)
 - Finite automata, regular expression. (4 classes)
+  - Class 11: Function with infinite domains, finite automata. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html)
 - Deterministic vs non-deterministic. (1 class)
 - Turing machines, computability. (4 classes)
 - Reductions. (2 classes)
