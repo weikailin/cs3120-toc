@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 9: Lower Bound of Circuit Size
+> 
+> We proved a circuit-size lower bound by applying the representation length of circuits. The slides are [here](assets/pdf/cs3120-class9-ink.pdf).
+> 
+> Feb 11, 2025
+
+{: .announce-title}
 > Class 8: Circuit Size, Representing Circuits
 > 
 > We went over Problem 1 of PS1. Then, we defined the circuit size classes and discussed the representation of circuits. The slides are [here](assets/pdf/cs3120-class8-ink.pdf).
