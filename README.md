@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 10: Circuit Size Hierarchy
+> 
+> We showed that for every size s, there exists a function that requires roughly circuit size s to compute. It is a cool proof although it is only existential. The slides are [here](assets/pdf/cs3120-class10-ink.pdf).
+> 
+> Feb 13, 2025
+
+{: .announce-title}
 > Class 9: Lower Bound of Circuit Size
 > 
 > We proved a circuit-size lower bound by applying the representation length of circuits. The slides are [here](assets/pdf/cs3120-class9-ink.pdf).
