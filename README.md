@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 11: Universal Circuits
+> 
+> We showed an efficient construction of universal circuits that is actually a generic way to build a circuit for a Python program (and more generally any program in the "random-access memory" model). 
+> 
+> That concludes our discussion on circuits. We moved on to Deterministic Finite Automata. The slides are [here](assets/pdf/cs3120-class11-ink.pdf).
+> 
+> Feb 18, 2025
+
+{: .announce-title}
 > Class 10: Circuit Size Hierarchy
 > 
 > We showed that for every size s, there exists a function that requires roughly circuit size s to compute. It is a cool proof although it is only existential. The slides are [here](assets/pdf/cs3120-class10-ink.pdf).
