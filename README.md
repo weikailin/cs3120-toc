@@ -25,7 +25,7 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > 
 > We went over the definition of DFA and its evaluation. Then, we introduced regular expressions. Both DFA and regular expressions are intesively used everyday in CS. The slides are [here](assets/pdf/cs3120-class12-ink.pdf).
 > 
-> PS4 is a written assignment, given in [PDF](assets/pdf/cs3120-ps5.pdf) and [Overleaf template](https://www.overleaf.com/read/wqcqvybwfqcy#3ef453).
+> PS5 is a written assignment, given in [PDF](assets/pdf/cs3120-ps5.pdf) and [Overleaf template](https://www.overleaf.com/read/wqcqvybwfqcy#3ef453).
 > 
 > Feb 20, 2025
 
