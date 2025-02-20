@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 12: Deterministic Finite Automata and Regular Expressions
+> 
+> We went over the definition of DFA and its evaluation. Then, we introduced regular expressions. Both DFA and regular expressions are intesively used everyday in CS. The slides are [here](assets/pdf/cs3120-class12-ink.pdf).
+> 
+> PS4 is a written assignment, given in [PDF](assets/pdf/cs3120-ps5.pdf) and [Overleaf template](https://www.overleaf.com/read/wqcqvybwfqcy#3ef453).
+> 
+> Feb 20, 2025
+
+{: .announce-title}
 > Class 11: Universal Circuits
 > 
 > We showed an efficient construction of universal circuits that is actually a generic way to build a circuit for a Python program (and more generally any program in the "random-access memory" model). 
