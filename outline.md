@@ -12,7 +12,7 @@ Course outline, tentative:
   - Class 3: Sets, numbers, strings. [Slides](assets/pdf/cs3120-class3-ink.pdf). ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
   - Class 4: Cantor's theorem, countable and uncountable, functions. [Slides](assets/pdf/cs3120-class4-ink.pdf). ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec). ---[&#x1F3E0;PS2](https://colab.research.google.com/drive/1C3WkLMtxUBjmi5mN5njrPfKLTBQ6KpcJ?usp=sharing).
   - Class 5: Cantor's Theorem, computation. [Slides](assets/pdf/cs3120-class5-ink.pdf). ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
-- Boolean circuits, universal circuits, and circuit complexity. (5-6 classes)
+- Boolean circuits, universal circuits, and circuit complexity. (5-6 classes, [announcements](1-circuit.md))
   - Class 6: Computation models, universality. [Slides](assets/pdf/cs3120-class6-ink.pdf). ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html). ---[&#x1F3E0;PS3](assets/pdf/cs3120-ps3.pdf).
   - Class 7: Universality, circuit size. [Slides](assets/pdf/cs3120-class7-ink.pdf). --[&#x1F4D6;Barak, Sec 4.6](https://introtcs.org/public/lec_03a_computing_every_function.html).
   - Class 8: Circuits vs functions, program as data. [Slides](assets/pdf/cs3120-class8-ink.pdf). --[&#x1F4D6;Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html). ---[&#x1F3E0;PS4](assets/pdf/cs3120-ps4.pdf).
