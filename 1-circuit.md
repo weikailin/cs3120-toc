@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Module 2: Boolean Circuits"
-nav_order: 10
+nav_order: 11
 nav_exclude: false
 ---
 
