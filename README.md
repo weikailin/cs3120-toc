@@ -22,6 +22,7 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 
 {: .announce-title}
 > Class 14: Limitations of Regular Expressions
+> 
 > We proved some functions (or languages) cannot be computed by regular expressions (and thus DFAs). Slides are [here](assets/pdf/cs3120-class14-ink.pdf).
 > 
 > Mar 4, 2025
