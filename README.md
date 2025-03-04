@@ -21,6 +21,12 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 14: Limitations of Regular Expressions
+> We proved some functions (or languages) cannot be computed by regular expressions (and thus DFAs). Slides are [here](assets/pdf/cs3120-class14-ink.pdf).
+> 
+> Mar 4, 2025
+
+{: .announce-title}
 > Class 13: Evaluating Regular Expressions
 > 
 > We defined both the syntax and the evaluation (matching) of regular expressions. Then, we claimed that the complexity class of regular expressions is identical to the complexity class of DFAs. We haven't yet proved the claim, but it is a powerful theorem! The slides are [here](assets/pdf/cs3120-class13-ink.pdf).
