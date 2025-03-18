@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 15: From DFA to Regular Expressions
+> 
+> We showed that for every DFA there is a regular expression such that matches the same strings. Mikhail pointed out a bug in my slides and also showed a fix. In the textbook, [Section 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec) shows the same proof without my bug (notice that $$F^t_{v,w}$$ includes strings that may go through $$v$$ or $$w$$). Slides are [here](assets/pdf/cs3120-class15-ink.pdf).
+> 
+> Mar 18, 2025
+
+{: .announce-title}
 > Class 14: Limitations of Regular Expressions
 > 
 > We proved some functions (or languages) cannot be computed by regular expressions (and thus DFAs). Slides are [here](assets/pdf/cs3120-class14-ink.pdf).
