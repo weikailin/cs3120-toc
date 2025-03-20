@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 16: From Regular Expressions to NFA to DFA
+> 
+> We introduced a generalization of DFA, called nondeterministic finite automata or NFA. Using the idea of "parallel universe," we defined NFA and its evaluation. Then, using NFA as an intermediate step, we showed how to construct NFA from any regular expression and how to construct DFA from any NFA. This completes the proof of DFA-Comp = Reg-Fun. We skipped some steps and details (such as concatenating two NFAs), but the big idea is working with nondeterminism. 
+> 
+> Slides are [here](assets/pdf/cs3120-class16-ink.pdf). PS7 is coming soon.
+> 
+> Mar 20, 2025
+
+{: .announce-title}
 > Class 15: From DFA to Regular Expressions
 > 
 > We showed that for every DFA there is a regular expression such that matches the same strings. Mikhail pointed out a bug in my slides and also showed a fix. In the textbook, [Section 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec) shows the same proof without my bug (notice that $$F^t_{v,w}$$ includes strings that may go through $$v$$ or $$w$$). Slides are [here](assets/pdf/cs3120-class15-ink.pdf).
