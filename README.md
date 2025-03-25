@@ -21,6 +21,15 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 17: Turing Machines
+> 
+> We concluded DFAs and regular expressions with the Cloudflare outage. With that, we formally introduced Turing machines. Historically, there were multiple models of computation, and Alan Turing showed that they are all equivalent to Turing machines. 
+> 
+> Slides are [here](assets/pdf/cs3120-class17-ink.pdf). PS7 is now posted and due next Tuesday.
+> 
+> Mar 20, 2025
+
+{: .announce-title}
 > Class 16: From Regular Expressions to NFA to DFA
 > 
 > We introduced a generalization of DFA, called nondeterministic finite automata or NFA. Using the idea of "parallel universe," we defined NFA and its evaluation. Then, using NFA as an intermediate step, we showed how to construct NFA from any regular expression and how to construct DFA from any NFA. This completes the proof of DFA-Comp = Reg-Fun. We skipped some steps and details (such as concatenating two NFAs), but the big idea is working with nondeterminism. 
