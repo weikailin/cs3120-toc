@@ -21,13 +21,21 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 18: Computability
+> 
+> We discussed more about some potential variants of Turing machines and how Turing addressed them. We then informally introduced the "computable numbers" and more generally computable functions.  
+> Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
+> 
+> Mar 27, 2025
+
+{: .announce-title}
 > Class 17: Turing Machines
 > 
 > We concluded DFAs and regular expressions with the Cloudflare outage. With that, we formally introduced Turing machines. Historically, there were multiple models of computation, and Alan Turing showed that they are all equivalent to Turing machines. 
 > 
 > Slides are [here](assets/pdf/cs3120-class17-ink.pdf). PS7 is now posted and due next Tuesday.
 > 
-> Mar 20, 2025
+> Mar 25, 2025
 
 ## Older announcements:
 - [Module 1: Introduction and Math Background](0-intro.md)

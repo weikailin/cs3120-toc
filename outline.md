@@ -26,11 +26,17 @@ Course outline, tentative:
   - Class 14: Limitations of regular expressions. --[&#x1F4D6;Barak, Sec 6.5](https://introtcs.org/public/lec_05_infinite.html#limitations-of-regular-expressions-and-the-pumping-lemma)
   - Midterm, March 6.
   - Class 15: DFA is computable by regular expressions. --[&#x1F4D6;Barak, Sec 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec)
-  - Class 16: Regular expressions is computable by DFA. --[&#x1F4D6;Sipser, Introduction to the Theory of Computation, Sec 1.2-1.3](https://search.lib.virginia.edu/sources/uva_library/items/u2911801)
-- Turing machines, computability. (4 classes)
+  - Class 16: Regular expressions is computable by DFA. --[&#x1F4D6;Sipser, Introduction to the Theory of Computation, Sec 1.2-1.3, Theorem 1.39 and "closure under the regular operations"](https://search.lib.virginia.edu/sources/uva_library/items/u2911801)
+- Turing machines, computability. (3 classes)
+  - Class 17: Turing machines. --[&#x1F4D6;Barak, Sec 7.1](https://introtcs.org/public/lec_06_loops.html#turing-machines). ---[&#x1F3E0;PS7](https://colab.research.google.com/drive/1fIuWaGZAl12bfwZgl01RxyukB3b4wb14?usp=sharing).
   - **---- (Tentatvie below) ----**
+  - Class 18: Computability and decidability.
+  - Class 19: Halting problem.
 - Reductions. (2 classes)
+  - Class 20: Rice Theorem.
+  - Class 21: Reductions.
 - Complexity, completeness, NP. (5 classes)
+  - Class 22: 
 
 <!-- HTML symbols: 
 x1F4D6: open book
