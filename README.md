@@ -27,6 +27,8 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
 > 
 > Mar 27, 2025
+> 
+> Update (Mar 27): [Problem Set 8](assets/pdf/cs3120-ps8.pdf) is now released. You can find the Overlead link in the PDF.
 
 {: .announce-title}
 > Class 17: Turing Machines
