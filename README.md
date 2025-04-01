@@ -21,10 +21,16 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 19: Universal Turing Machines and Uncomputability
+> 
+> We showed that there are universal Turing machines. Using universal Turing machines, we proved that the boolean function $$ACCEPTS$$ is uncomputable. Slides are [here](assets/pdf/cs3120-class19-ink.pdf).
+> 
+> Apr 1, 2025
+
+{: .announce-title}
 > Class 18: Computability
 > 
-> We discussed more about some potential variants of Turing machines and how Turing addressed them. We then informally introduced the "computable numbers" and more generally computable functions.  
-> Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
+> We discussed more about some potential variants of Turing machines and how Turing addressed them. We then informally introduced the "computable numbers" and more generally computable functions. Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
 > 
 > Mar 27, 2025
 > 
