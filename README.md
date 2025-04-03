@@ -26,6 +26,8 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > We showed that Halting Problem is uncomputable through a reduction from $$ACCEPTS$$. Also, we discussed Church-Turing Thesis. Slides are [here](assets/pdf/cs3120-class20-ink.pdf).
 > 
 > Apr 3, 2025
+> 
+> Update (Apr 3): [Problem Set 9](assets/pdf/cs3120-ps9.pdf) is now released. You can find the Overlead link in the PDF.
 
 {: .announce-title}
 > Class 19: Universal Turing Machines and Uncomputability
