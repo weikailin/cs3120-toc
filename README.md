@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 20: Halting problem, and reduction
+> 
+> We showed that Halting Problem is uncomputable through a reduction from $$ACCEPTS$$. Also, we discussed Church-Turing Thesis. Slides are [here](assets/pdf/cs3120-class20-ink.pdf).
+> 
+> Apr 3, 2025
+
+{: .announce-title}
 > Class 19: Universal Turing Machines and Uncomputability
 > 
 > We showed that there are universal Turing machines. Using universal Turing machines, we proved that the boolean function $$ACCEPTS$$ is uncomputable. Slides are [here](assets/pdf/cs3120-class19-ink.pdf).
