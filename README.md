@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 21: Kolmogorov Complexity
+> 
+> Today, Alice showed a metric of information in a string: Kolmogorov complexity. It is everywhere whenever we human write anything, but it is a big idea that built on the concept of computation. Alice's slides is [here](assets/pdf/cs3120-class21.pdf). My slides will be posted on Thursday together with other slides.  
+> 
+> Apr 8, 2025
+
+{: .announce-title}
 > Class 20: Halting problem, and reduction
 > 
 > We showed that Halting Problem is uncomputable through a reduction from $$ACCEPTS$$. Also, we discussed Church-Turing Thesis. Slides are [here](assets/pdf/cs3120-class20-ink.pdf).
