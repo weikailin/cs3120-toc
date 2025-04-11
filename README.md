@@ -21,6 +21,13 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 22: Rice's Theorem
+> 
+> We recapped reductions. Then, we discussed semantic properties of Turing machines and introduced Rice's Theorem. It extremely powerful and shows many uncomputable functions at once! Slides are [here](assets/pdf/cs3120-class22-ink.pdf).
+> 
+> Apr 10, 2025
+
+{: .announce-title}
 > Class 21: Kolmogorov Complexity
 > 
 > Today, Alice showed a metric of information in a string: Kolmogorov complexity. It is everywhere whenever we human write anything, but it is a big idea that built on the concept of computation. Alice's slides is [here](assets/pdf/cs3120-class21.pdf). My slides will be posted on Thursday together with other slides.  
