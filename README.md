@@ -26,6 +26,8 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > We introduced time complexity of Turing machines, and then we defined the class of polynomial-time computable functions.
 > Slides are [here](assets/pdf/cs3120-class23-ink.pdf).
 > 
+> [Problem Set 10](assets/pdf/cs3120-ps10.pdf) is now released. You can find the Overlead link in the PDF.
+> 
 > Apr 15, 2025
 
 {: .announce-title}
