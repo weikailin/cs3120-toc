@@ -21,6 +21,14 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 23: Complexity, and class P
+> 
+> We introduced time complexity of Turing machines, and then we defined the class of polynomial-time computable functions.
+> Slides are [here](assets/pdf/cs3120-class23-ink.pdf).
+> 
+> Apr 15, 2025
+
+{: .announce-title}
 > Class 22: Rice's Theorem
 > 
 > We recapped reductions. Then, we discussed semantic properties of Turing machines and introduced Rice's Theorem. It extremely powerful and shows many uncomputable functions at once! Slides are [here](assets/pdf/cs3120-class22-ink.pdf).
