@@ -21,6 +21,21 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 ## Recent Announcements
 
 {: .announce-title}
+> Class 24: Reductions, and class NP
+> 
+> We introduced some hard problems, including LonggestPath, CircuitSAT, and 3-SAT. Then, we defined the complexity class NP, and we showed that the mentioned hard problems are in NP. The class NP is a big idea in CS. Instead of grouping problems by their computation time, NP groups problems by their **verification time**. At very high level, problems in NP are those "easy to verify" when the instance holds. That includes many problems we know of, and the concept opened many areas in CS.  
+> 
+> Slides are [here](assets/pdf/cs3120-class24-ink.pdf).
+> 
+> Mikhail asked the complement of problems in NP. That is defined as the class co-NP: 
+> $$
+> co-NP = \{F : F \text{ is a Boolean function and } NOT(F(x)) \in NP \}.
+> $$
+> We have $$P \subset NP$$ and $$P \subset co-NP$$, but it is a [long open question](https://en.wikipedia.org/wiki/Co-NP) whether $$NP = co-NP$$. 
+> 
+> Apr 17, 2025
+
+{: .announce-title}
 > Class 23: Complexity, and class P
 > 
 > We introduced time complexity of Turing machines, and then we defined the class of polynomial-time computable functions.
