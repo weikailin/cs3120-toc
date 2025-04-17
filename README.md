@@ -27,7 +27,7 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > 
 > Slides are [here](assets/pdf/cs3120-class24-ink.pdf).
 > 
-> Mikhail asked the complement of problems in NP. That is defined as the class co-NP: 
+> Mikhail asked about the *complement* of problems in NP. That is defined as the class co-NP: 
 > $$
 > co-NP = \{F : F \text{ is a Boolean function and } NOT(F(x)) \in NP \}.
 > $$
