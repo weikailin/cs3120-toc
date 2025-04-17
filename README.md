@@ -31,7 +31,7 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 > $$
 > co-NP = \{F : F \text{ is a Boolean function and } NOT(F(x)) \in NP \}.
 > $$
-> We have $$P \subset NP$$ and $$P \subset co-NP$$, but it is a [long open question](https://en.wikipedia.org/wiki/Co-NP) whether $$NP = co-NP$$. 
+> We have $$P \subseteq NP$$ and $$P \subseteq co-NP$$, but it is a [long open question](https://en.wikipedia.org/wiki/Co-NP) whether $$NP = co-NP$$. 
 > 
 > Apr 17, 2025
 
