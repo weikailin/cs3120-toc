@@ -20,6 +20,16 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 
 ## Recent Announcements
 
+
+{: .announce-title}
+> Class 25: P vs NP vs EXP, NP-Complete
+> 
+> We compared class NP to the two classes P and EXP, with a brief definition of class co-NP. We then defined the class of NP-Complete (functions), a first step when human got to understand P vs NP. In the coming Thursday, we will prove Cook-Levin Theorem, which gives the first NP-Complete problem.
+> 
+> Slides are [here](assets/pdf/cs3120-class25-ink.pdf).
+> 
+> Apr 22, 2025
+
 {: .announce-title}
 > Class 24: Reductions, and class NP
 > 
