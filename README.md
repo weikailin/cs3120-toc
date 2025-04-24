@@ -22,6 +22,17 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 
 
 {: .announce-title}
+> Class 26: Cook-Levin Theorem
+> 
+> We proved Cook-Levin Theorem by reducing from any problem in NP to CircuitSAT and by recuding from CircuitSAT to 3SAT. We also talked about some other NP-Complete problems and about the need for P $$\neq$$ NP in cryptography.
+> 
+> Thanks to Abhishek for pointing out a bug in my slides: BinPacking is easy and computable in polynomial time when there is only one bin. However, for two or more bins of the same size, it becomes NP-Complete to compute whether we can pack all items into the bins. See [this note](https://ac.informatik.uni-freiburg.de/lak_teaching/ws11_12/combopt/notes/bin_packing.pdf) for the definition and reduction.
+> 
+> Slides are [here](assets/pdf/cs3120-class26-ink.pdf).
+> 
+> Apr 24, 2025
+
+{: .announce-title}
 > Class 25: P vs NP vs EXP, NP-Complete
 > 
 > We compared class NP to the two classes P and EXP, with a brief definition of class co-NP. We then defined the class of NP-Complete (functions), a first step when human got to understand P vs NP. In the coming Thursday, we will prove Cook-Levin Theorem, which gives the first NP-Complete problem.
