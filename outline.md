@@ -27,16 +27,20 @@ Course outline, tentative:
   - Midterm, March 6.
   - Class 15: DFA is computable by regular expressions. --[&#x1F4D6;Barak, Sec 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec)
   - Class 16: Regular expressions is computable by DFA. --[&#x1F4D6;Sipser, Introduction to the Theory of Computation, Sec 1.2-1.3, Theorem 1.39 and "closure under the regular operations"](https://search.lib.virginia.edu/sources/uva_library/items/u2911801)
-- Turing machines, computability. (3 classes)
+- Turing machines, computability. (6 classes)
   - Class 17: Turing machines. --[&#x1F4D6;Barak, Sec 7.1](https://introtcs.org/public/lec_06_loops.html#turing-machines). ---[&#x1F3E0;PS7](https://colab.research.google.com/drive/1fIuWaGZAl12bfwZgl01RxyukB3b4wb14?usp=sharing).
-  - **---- (Tentatvie below) ----**
-  - Class 18: Computability and decidability.
-  - Class 19: Halting problem.
-- Reductions. (2 classes)
-  - Class 20: Rice Theorem.
-  - Class 21: Reductions.
+  - Class 18: Computability.  --[&#x1F4D6;Barak, Sec 7.2](https://introtcs.org/public/lec_06_loops.html#equivalence-of-turing-machines-and-nand-tm-programs). ---[&#x1F3E0;PS8](assets/pdf/cs3120-ps8.pdf).
+  - Class 19: Universal Turing Machines and Uncomputability. --[&#x1F4D6;Barak, Sec 9.1-9.3](https://introtcs.org/public/lec_08_uncomputability.html#universality-or-a-meta-circular-evaluator).
+  - Class 20: Halting problem, and reduction. --[&#x1F4D6;Barak, Sec 9.3-9.4](https://introtcs.org/public/lec_08_uncomputability.html#haltingsec). ---[&#x1F3E0;PS9](assets/pdf/cs3120-ps9.pdf).
+  - Class 21: Kolmogorov Complexity. --[Notes by Resch @ CMU](https://www.cs.cmu.edu/~venkatg/teaching/15252-sp20/notes/Kolmogorov-Complexity.pdf).
+  - Class 22: Rice's Theorem. --[&#x1F4D6;Barak, Sec 9.5](https://introtcs.org/public/lec_08_uncomputability.html#rices-theorem-and-the-impossibility-of-general-software-verification).
 - Complexity, completeness, NP. (5 classes)
-  - Class 22: 
+  - Class 23: Complexity, and class P. --[&#x1F4D6;Barak, Sec 13.1-13.2](https://introtcs.org/public/lec_11_running_time.html). ---[&#x1F3E0;PS10](assets/pdf/cs3120-ps10.pdf).
+  - Class 24: Reductions, and class NP. --[&#x1F4D6;Barak, Sec 12.1-12.2, 15.1](https://introtcs.org/public/lec_10_efficient_alg.html).
+  - Class 25: P vs NP vs EXP, NP-Complete. --[&#x1F4D6;Barak, Sec 15.1.2, 15.2](https://introtcs.org/public/lec_13_Cook_Levin.html#basic-facts-about-mathbfnp).
+  - Class 26: Cook-Levin Theorem. --[&#x1F4D6;Barak, Sec 15.3-15.6](https://introtcs.org/public/lec_13_Cook_Levin.html#the-nandsat-problem-and-why-it-is-mathbfnp-hard).
+  - Class 27: Reductions, Review, and Gödel's Incompleteness. --[&#x1F4D6;Barak, Sec 14.5, 11.1-11.2](https://introtcs.org/public/lec_12_NP.html#the-independent-set-problem).
+
 
 <!-- HTML symbols: 
 x1F4D6: open book
