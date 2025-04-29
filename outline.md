@@ -19,7 +19,7 @@ Course outline, tentative:
   - Class 9: Lower bound on circuit size. [Slides](assets/pdf/cs3120-class9-ink.pdf). --[&#x1F4D6;Barak, Sec 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec)
   - Class 10: Circuit size hierarchy. [Slides](assets/pdf/cs3120-class10-ink.pdf). --[&#x1F4D6;Barak, Sec 5.2.1](https://introtcs.org/public/lec_04_code_and_data.html#size-hierarchy-theorem-optional)
   - Class 11: Universal circuit.  [Slides](assets/pdf/cs3120-class11-ink.pdf). --[&#x1F4D6;Barak, Sec 5.4](https://introtcs.org/public/lec_04_code_and_data.html#a-nand-circ-interpreter-in-nand-circ)
-- Finite automata, regular expression. (6 classes)
+- Finite automata, regular expression. (6 classes, [announcements](2-dfa.md))
   - Class 11: Function with infinite domains, finite automata. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html)
   - Class 12: Regular expressions. [Slides](assets/pdf/cs3120-class12-ink.pdf). --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html). ---[&#x1F3E0;PS5](assets/pdf/cs3120-ps5.pdf).
   - Class 13: Evaluating regular expressions. [Slides](assets/pdf/cs3120-class13-ink.pdf). --[&#x1F4D6;Barak, Sec 6.3-6.4](https://introtcs.org/public/lec_05_infinite.html#regexpsec). ---[&#x1F3E0;PS6](https://colab.research.google.com/drive/1BpXmEzkzhle0YWTcWs3L9HOAUvF3Af16?usp=sharing).
@@ -27,7 +27,7 @@ Course outline, tentative:
   - Midterm, March 6.
   - Class 15: DFA is computable by regular expressions. --[&#x1F4D6;Barak, Sec 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec)
   - Class 16: Regular expressions is computable by DFA. --[&#x1F4D6;Sipser, Introduction to the Theory of Computation, Sec 1.2-1.3, Theorem 1.39 and "closure under the regular operations"](https://search.lib.virginia.edu/sources/uva_library/items/u2911801)
-- Turing machines, computability. (6 classes)
+- Turing machines, computability. (6 classes, [announcements](3-tm.md))
   - Class 17: Turing machines. --[&#x1F4D6;Barak, Sec 7.1](https://introtcs.org/public/lec_06_loops.html#turing-machines). ---[&#x1F3E0;PS7](https://colab.research.google.com/drive/1fIuWaGZAl12bfwZgl01RxyukB3b4wb14?usp=sharing).
   - Class 18: Computability.  --[&#x1F4D6;Barak, Sec 7.2](https://introtcs.org/public/lec_06_loops.html#equivalence-of-turing-machines-and-nand-tm-programs). ---[&#x1F3E0;PS8](assets/pdf/cs3120-ps8.pdf).
   - Class 19: Universal Turing Machines and Uncomputability. --[&#x1F4D6;Barak, Sec 9.1-9.3](https://introtcs.org/public/lec_08_uncomputability.html#universality-or-a-meta-circular-evaluator).
