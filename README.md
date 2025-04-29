@@ -20,6 +20,14 @@ This is the course website of CS 3120 (also called Discrete Mathematics and Theo
 
 ## Recent Announcements
 
+{: .announce-title}
+> Class 27: Reductions, Review, and Gödel's Incompleteness
+> 
+> We reviewed the template of reductions by showing the reduction from 3SAT to Maximum Independent Set. We also birefly reviewed the big ideas in this course: counting, reductions, code as data. We wrapped up this course with Gödel's Incompleteness Theorem.
+> 
+> Slides are [here](assets/pdf/cs3120-class27-ink.pdf).
+> 
+> Apr 29, 2025
 
 {: .announce-title}
 > Class 26: Cook-Levin Theorem
