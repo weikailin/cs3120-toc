@@ -8,6 +8,14 @@ nav_exclude: false
 Syllabus
 ========
 
+<!-- 
+This shall be similar to [https://github.com/uvatoc/uvatoc.github.io/blob/master/src/content/syllabus.md?plain=1] 
+and [https://cs121.boazbarak.org/syllabus/]
+
+Mark's is good but differ in coursework 
+[https://markfloryan.github.io/dmt2/courselogistics/index.html]
+ -->
+
 ## Overview
 
 **Course Description:** The goal of this course is to understand the
@@ -45,10 +53,10 @@ problem cannot be solved or is too expensive to solve.
 
 <a name="meetings"></a>
 **Class Meetings:** The full class meetings of the course are
-  scheduled for Tuesdays and Thursdays, 9:30--10:45pm in Olsson Hall 120. 
+  scheduled for Tuesdays and Thursdays, 12:30--1:45pm in Rice Hall 130. 
 
 **Another section of the same course:**
-Prof. Pettit also teaches this course in this Spring 2026. The two sections use **different textbooks** and proceed with slightly **different topics** although the overall goals are similar. The workload of this section shall be similar to the other section, but it is up to the staff's discretion.
+[Prof. Floryan also teaches this course on Spring 2025](https://louslist.org/sectiontip.php?Semester=1252&ClassNumber=16064). The two sections use different textbooks and proceed with slightly different topics although the overall goals are similar. The workload of this section shall be similar to the other section, but it is up to the staff's discretion.
 
 ## Preparation
 
@@ -76,11 +84,11 @@ should take the class.
 ## Course Staff
 
 **Instructor:** The course is taught by [Wei-Kai Lin](https://weikailin.github.io/) (wklin-course@virginia.edu).
-  Feel free to contact Wei-Kai with any
+  Feel free to contact either of us with any
   questions about the course, computer science, or anything else you
-  think I can help with (but please read the section below on
+  think we can help with (but please read the section below on
   [communications](#communication) to determine if it would be better to post a message
-  in [*Piazza*](https://piazza.com/virginia/spring2026/cs3120) before emailing us).
+  in [*Ed Discussion*](https://edstem.org/us/courses/68988/discussion/) before emailing us).
 
 **Office Hours:** The full office hours schedule is not yet determined, but it will be available on the [course calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
@@ -89,20 +97,24 @@ should take the class.
 **Teaching Assisants:** 
 
 {: style="text-align: center;"}
-Chase Fickes
-![Chase](assets/images/chase.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+Haolin Liu
+![Haolin](assets/images/haolin.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
-Shiyu Li
-![Shiyu](assets/images/shiyu.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+Alice Wanner
+![Alice](assets/images/alice.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+
+{: style="text-align: center;"}
+Liran Li
+![Liran](assets/images/liran.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Ethan Klose
 ![Ethan](assets/images/ethan.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
-Eric Zeng
-![Eric](assets/images/eric.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+Nicole Cheban
+![Nicole](assets/images/nicole.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 <!-- 
    <center>
@@ -168,7 +180,7 @@ Claire Yoon</br>
 This is an open textbook that is freely available from
 [https://introtcs.org](https://introtcs.org) under a Creative Commons
 license. In addition to costing
-[$78](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779XIntroduction-Theory-Computation-Michael-Sipser/dp/113318779X?language=en_US&currency=USD)
+[$271.95](https://web.archive.org/web/20171023211340/http://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790)
 less than the traditional textbook for this class, this book takes a
 modern and innovative approach to introducing theory of computation
 which has several advantages (and a few disadvantages) of the
@@ -203,31 +215,30 @@ and use the course Ed Discussion for interactive communications.
   calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 
-**Ed Discussion:** We will use the [course Piazza](https://piazza.com/virginia/spring2026/cs3120) for most other
+**Ed Discussion:** We will use the [course Ed Discussion server](https://edstem.org/us/courses/68988/discussion/) for most other
   course communications. We expect students to receive messages we send to
-  the `Announcement` category as well as any direct messages we send to you
+  the `General` category as well as any direct messages we send to you
   on Ed. 
   
-If you have questions about assignments that will
-be relevant to other students, please ask them in the corresponding folders, such as `hw1`.
-This will get the fastest response, since all of the course
+If you have questions about course materials or assignments that will
+be relevant to other students, please ask them in the `Problem Sets` or `Lectures`
+channel. This will get the fastest response, since all of the course
 staff and students will see your question there and be able to respond
 to it. Asking questions anonymously is allowed.
 
-Although Piazza enables "realtime" communication, you should not
+Although Ed enables "realtime" communication, you should not
 expect instant answers to questions there, but should expect a
 response within 24 hours (even on weekdays).
 
 **Email:** Managing email for a large class like this is difficult,
-  and you should use the course Piazza for questions about the course
+  and you should use the course Ed Discussion for questions about the course
   content that are relevant to all students. If you have personal
   questions or things to discuss with the course staff, please do this
   by emailing the instructor ([wklin-course@virginia.edu](mailto:wklin-course@virginia.edu)). 
 
 ## Assignments and Exams
 
-### Problem Sets
-  Most learning in this course is done by working to
+**Problem Sets.** Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
   Fridays at 10:00pm).  See the course calendar for specific due
@@ -238,14 +249,15 @@ response within 24 hours (even on weekdays).
   by yourself and understand everything in it. We trust and expect
   students to follow these policies vigilantly.
 
-### Quizzes
+**Pre-reading and reflection.** 
 This course (and actually many courses) encourages reading and thinking indepedently. Hence, pre-reading and reflection is required.
-For each week, we will post some pre-reading material of the coming week. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short quiz, often due on Mondays at 10pm. 
-In the same quiz, you will be asked to reflect on the material of the past week.
+For each week, we will post some pre-reading material of the coming week on Thursday. The materials may be a textbook section or an online video, but they shall be short and readable in 10-20 minutes. You shall read / watch them and submit a short survey (or quiz), often due on Mondays at 10pm. 
+Also in the same survey, you will be asked to reflect on the material of the past week.
 
-We require you to submit a total of 9 quizzes during the semester. 
-There will be more than 9 quizzes, you are encouraged to take all of them, but only your 9 best quizzes will be counted.
-Because the timing of pre-reading and reclection are essential, we disallow late submission (unless pre-approved by the instructor).
+We require you to submit a total of 12 pre-reading and reflections survey during the semester. 
+The total is capped at 12 even if you submit more. This is class participation, so you will likely get points as long as your submission is relevant to the course.
+Because the timing of pre-reading and reclection are essential, we disallow late submission (unless pre-approved by the instructor). There are 15 weeks, and we will release at least 15 surveys (if not more). Please finish 12 as early as you can in case you are busier later.
+Ideally, your summaries and reflections will become your big picture of this course. Hence, even after you have already all 12 points, you are still encouraged to submit weekly.
 
 <!-- 
 **Quizzes.** We will have regular quizzes due most Wednesday at 9:59pm
@@ -254,20 +266,16 @@ Because the timing of pre-reading and reclection are essential, we disallow late
   graded. Quizzes will be done on your own, without using any resources.
  -->
 
-### Exams
-We will have the following exams in the semester:
+**Exams.** We will have two exams in the course:
 
-- **Midterm 0**: In class, **Tuesday, Feb 3, 2026**.
-- **Midterm 1**: In class, **Tuesday, Feb 24, 2026**.
-- **Midterm 2**: In class, **Tuesday, Mar 24, 2026**.
-- **Midterm 3**: In class, **Tuesday, Apr 14, 2026**.
-- **Final Exam**: **Monday, 4 May, 2:00pm - 5:00pm**.
+- **Midterm Exam**: In class on **Thursday, 6 March 2023**.
+- **Final Exam**: **Friday, 2 May, 2:00pm - 5:00pm**.
 
 No collaboration is permitted on the exams. Students may construct a
 one-page (letter-size, two-sided) reference sheet for use during the
 exam, but all other resources are forbidden (no internet, textbook,
 other humans, magnification instruments, etc.). We will provide
-guidelines on what to expect on each exam, but you should
+detailed guidelines on what to expect on each exam, but you should
 expect them to focus on the most important concepts covered in the
 course with problems that you should be well perpared to solve if you
 understand the problems from the problem sets well.
@@ -276,8 +284,10 @@ understand the problems from the problem sets well.
 individual students on a case-by-case basis. We are more likely to
 respond positively to an extension request if it is made well before
 an assignment is due and provides a reasonable justification for the
-extension.
+extension. To request an extension, use this form:
 
+> [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLSd66tvf2udQvh9fC0dJ-bWNmfN5VCbnchb5lZv8z0euO6OdiQ/viewform?usp=sharing)
+   
 We are sympathetic to situations where a traumatic late event prevents
 you from being able to complete an assignment, and appreciate you
 bringing these to our attention even if the deadline has passed.
@@ -306,10 +316,10 @@ receive in the course:
 
 | Item                      | Standard Weighting                          |
 |---------------------------|---------------------------------------------|
-|Problem Sets (10 expected) | 27%     |
-|Quizzes                    | 5%      |
-|Midterm                    | 45%     |
-|Final Exam                 | 23%     |
+|Pre-reading and reflection     | 12%     |
+|Problem Sets (10 expected, the weight of individual assignment varies) | 50%     |
+|Midterm Exam               | 18%     |
+|Final Exam                 | 20%     |
 
 <!-- 
 <center>
@@ -355,7 +365,7 @@ this class to solve new problems and understand it well enough to
 explain most concepts in the class. A “B” grade means we are convinced
 that you understand the main ideas in this class well enough to be
 well prepared for a follow-on course (i.e., one that has this as a
-pre-requisite). See the [CS Department Grading Guidelines](https://uvacsadvising.org/policies.html#cs-department-grading-guidelines).
+pre-requisite).
 
 Although the material we cover is challenging, and the pace may seem
 overwhelming at times, we are confident that all students who put
@@ -381,7 +391,7 @@ else is trustworthy. The course staff starts with the assumption that
 all students at the university deserve to be trusted. 
 
 To ensure that expectations are clear to everyone, all students are
-required to read, understand, and sign the [course pledge](???).
+required to read, understand, and sign the [course pledge](pledge.md).
 
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
@@ -474,9 +484,7 @@ Theory of computation is widely taught in many universities. Hence, you can find
 - [UVA CS 3120 by Prof. Floryan](https://markfloryan.github.io/dmt2/readme.html): This is a different section of the same course.
 - [Harvard CS 121 by Prof. Barak](https://cs121.boazbarak.org/): This is the course at Harvard, which is taught by the author of our textbook.
 
-<!-- 
 {: .caution }
 This syllabus is lightly modified after the first day of class. You may find the changes on [GitHub repo](https://github.com/weikailin/cs3120-toc). Roughly, they are:
 the expected due dates of homework, 
 the link to extension form.
- -->
