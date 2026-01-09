@@ -11,7 +11,7 @@ seo:
 
 UVA CS 3120 Theory of Computation (Wei-Kai Lin)
 ----------------------------------------
-This is the course website of CS 3120 (also called Discrete Mathematics and Theory 2), instructed by Prof. Lin. The meetings are [Tuesdays and Thursdays at **9:30 - 10:45pm** Spring 2022](https://hooslist.virginia.edu/ClassSchedule/ClassHistory?subject=CS&catalogNumber=3120) and in Olsson 120.
+This is the course website of CS 3120 (also called Discrete Mathematics and Theory 2), instructed by Prof. Lin. The meetings are [Tuesdays and Thursdays at **9:30 - 10:45pm** Spring 2026](https://hooslist.virginia.edu/ClassSchedule/ClassHistory?subject=CS&catalogNumber=3120) and in Olsson 120.
 
 {: .highlight }
 **Another section of the same course:**
