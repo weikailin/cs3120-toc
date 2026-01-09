@@ -193,7 +193,7 @@ from other (freely available) sources.
 ## Communication
 
 We will primarily use the course website for posting course materials,
-and use the course Ed Discussion for interactive communications.
+and use the course Piazza for interactive communications.
 
 **Course Website:** We will post all course materials at
   [https://weikailin.github.io/cs3120-toc](https://weikailin.github.io/cs3120-toc).
@@ -203,7 +203,7 @@ and use the course Ed Discussion for interactive communications.
   calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 
-**Ed Discussion:** We will use the [course Piazza](https://piazza.com/virginia/spring2026/cs3120) for most other
+**Piazza:** We will use the [course Piazza](https://piazza.com/virginia/spring2026/cs3120) for most other
   course communications. We expect students to receive messages we send to
   the `Announcement` category as well as any direct messages we send to you
   on Ed. 
