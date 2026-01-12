@@ -381,7 +381,7 @@ else is trustworthy. The course staff starts with the assumption that
 all students at the university deserve to be trusted. 
 
 To ensure that expectations are clear to everyone, all students are
-required to read, understand, and sign the [course pledge](???).
+required to read, understand, and sign the [course pledge](pledge.md).
 
 **Collaboration Policy:** We believe it is important for students to
 learn by thinking about problems on their own, so it is expected that
