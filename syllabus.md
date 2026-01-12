@@ -90,11 +90,11 @@ should take the class.
 
 {: style="text-align: center;"}
 Chase Fickes
-![Chase](assets/images/chase.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+![Chase](assets/images/chase.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Shiyu Li
-![Shiyu](assets/images/shiyu.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+![Shiyu](assets/images/shiyu.png){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
 
 {: style="text-align: center;"}
 Ethan Klose
