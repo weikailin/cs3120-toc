@@ -473,6 +473,7 @@ Theory of computation is widely taught in many universities. Hence, you can find
 - [UVA CS 3120, Spring 2023, by Prof. Evans and Prof. Mahmoody](https://uvatoc.github.io/): This is the "predecessor" of the current course. Actually, many policies and materials are inherited.
 - [UVA CS 3120 by Prof. Floryan](https://markfloryan.github.io/dmt2/readme.html): This is a different section of the same course.
 - [Harvard CS 121 by Prof. Barak](https://cs121.boazbarak.org/): This is the course at Harvard, which is taught by the author of our textbook.
+- [UVA CS 3120 by Wei-Kai, Spring 2025](https://github.com/weikailin/cs3120-toc/tree/main/_Spring-2025): This is the previous offering of the same course. You can find the [Announcements](https://github.com/weikailin/cs3120-toc/tree/main/_Spring-2025), [Outline](https://github.com/weikailin/cs3120-toc/blob/main/_Spring-2025/outline.md), and others, provided in the raw markdown format.
 
 <!-- 
 {: .caution }
