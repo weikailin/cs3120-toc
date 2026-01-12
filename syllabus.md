@@ -200,7 +200,7 @@ and use the course Piazza for interactive communications.
 
 **Course Calendar:** We will keep course deadlines, office hours, and
   other events on a [public google
-  calendar](https://calendar.google.com/calendar/u/2?cid=MjkyZThkZGIzNWZiZmIwNzExMDI0MzVkYjI4MjI1NDdlZjg5MWFiNjZkZmQ3ZWIwMGUwNzVlMGVhNTRhNDViZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Students
+  calendar](https://calendar.google.com/calendar/embed?src=292e8ddb35fbfb071102435db2822547ef891ab66dfd7eb00e075e0ea54a45bd%40group.calendar.google.com). Students
   are expected to subscribe to this calendar and be aware of deadlines that are posted there.
 
 **Piazza:** We will use the [course Piazza](https://piazza.com/virginia/spring2026/cs3120) for most other
