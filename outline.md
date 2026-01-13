@@ -6,29 +6,29 @@ nav_exclude: false
 ---
 
 Course outline, tentative: 
-- Introduction, sets, defining computation. (4-5 classes, [announcements](0-intro.md))
-  - Class 1: Introduction. [Slides](assets/pdf/cs3120-class1.pdf).  ---[&#x1F4D6;Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
-  - Class 2: Definitions. [Slides](assets/pdf/cs3120-class2-ink.pdf).  ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html). ---[&#x1F3E0;PS1](assets/pdf/cs3120-ps1.pdf).
-  - Class 3: Sets, numbers, strings. [Slides](assets/pdf/cs3120-class3-ink.pdf). ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
-  - Class 4: Cantor's theorem, countable and uncountable, functions. [Slides](assets/pdf/cs3120-class4-ink.pdf). ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec). ---[&#x1F3E0;PS2](https://colab.research.google.com/drive/1C3WkLMtxUBjmi5mN5njrPfKLTBQ6KpcJ?usp=sharing).
-  - Class 5: Cantor's Theorem, computation. [Slides](assets/pdf/cs3120-class5-ink.pdf). ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
+- Introduction, sets, defining computation. (4-5 classes)
+  - Class 1: Introduction. ---[&#x1F4D6;Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
+  - Class 2: Definitions. ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html).
+  - Class 3: Sets, numbers, strings. ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
+  - Class 4: Cantor's theorem, countable and uncountable, functions. ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec).
+  - Class 5: Cantor's Theorem, computation. ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
 
 (Jan 27)
 
 - Boolean circuits, universal circuits, and circuit complexity. (5-6 classes, [announcements](1-circuit.md))
-  - Class 6: Computation models, universality. [Slides](assets/pdf/cs3120-class6-ink.pdf). ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html). ---[&#x1F3E0;PS3](assets/pdf/cs3120-ps3.pdf).
-  - Class 7: Universality, circuit size. [Slides](assets/pdf/cs3120-class7-ink.pdf). --[&#x1F4D6;Barak, Sec 4.6](https://introtcs.org/public/lec_03a_computing_every_function.html).
-  - Class 8: Circuits vs functions, program as data. [Slides](assets/pdf/cs3120-class8-ink.pdf). --[&#x1F4D6;Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html). ---[&#x1F3E0;PS4](assets/pdf/cs3120-ps4.pdf).
-  - Class 9: Lower bound on circuit size. [Slides](assets/pdf/cs3120-class9-ink.pdf). --[&#x1F4D6;Barak, Sec 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec)
-  - Class 10: Circuit size hierarchy. [Slides](assets/pdf/cs3120-class10-ink.pdf). --[&#x1F4D6;Barak, Sec 5.2.1](https://introtcs.org/public/lec_04_code_and_data.html#size-hierarchy-theorem-optional)
-  - Class 11: Universal circuit.  [Slides](assets/pdf/cs3120-class11-ink.pdf). --[&#x1F4D6;Barak, Sec 5.4](https://introtcs.org/public/lec_04_code_and_data.html#a-nand-circ-interpreter-in-nand-circ)
+  - Class 6: Computation models, universality. ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html).
+  - Class 7: Universality, circuit size. --[&#x1F4D6;Barak, Sec 4.6](https://introtcs.org/public/lec_03a_computing_every_function.html).
+  - Class 8: Circuits vs functions, program as data. --[&#x1F4D6;Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html).
+  - Class 9: Lower bound on circuit size. --[&#x1F4D6;Barak, Sec 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec)
+  - Class 10: Circuit size hierarchy. --[&#x1F4D6;Barak, Sec 5.2.1](https://introtcs.org/public/lec_04_code_and_data.html#size-hierarchy-theorem-optional)
+  - Class 11: Universal circuit.  --[&#x1F4D6;Barak, Sec 5.4](https://introtcs.org/public/lec_04_code_and_data.html#a-nand-circ-interpreter-in-nand-circ)
 
 (Feb 17)
 
 - Finite automata, regular expression. (6 classes, [announcements](2-dfa.md))
   - Class 11: Function with infinite domains, finite automata. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html)
-  - Class 12: Regular expressions. [Slides](assets/pdf/cs3120-class12-ink.pdf). --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html). ---[&#x1F3E0;PS5](assets/pdf/cs3120-ps5.pdf).
-  - Class 13: Evaluating regular expressions. [Slides](assets/pdf/cs3120-class13-ink.pdf). --[&#x1F4D6;Barak, Sec 6.3-6.4](https://introtcs.org/public/lec_05_infinite.html#regexpsec). ---[&#x1F3E0;PS6](https://colab.research.google.com/drive/1BpXmEzkzhle0YWTcWs3L9HOAUvF3Af16?usp=sharing).
+  - Class 12: Regular expressions. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html).
+  - Class 13: Evaluating regular expressions. --[&#x1F4D6;Barak, Sec 6.3-6.4](https://introtcs.org/public/lec_05_infinite.html#regexpsec).
   - Class 14: Limitations of regular expressions. --[&#x1F4D6;Barak, Sec 6.5](https://introtcs.org/public/lec_05_infinite.html#limitations-of-regular-expressions-and-the-pumping-lemma)
   - Midterm, March 6.
   - Class 15: DFA is computable by regular expressions. --[&#x1F4D6;Barak, Sec 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec)
@@ -37,17 +37,17 @@ Course outline, tentative:
 (Mar 17)
 
 - Turing machines, computability. (6 classes, [announcements](3-tm.md))
-  - Class 17: Turing machines. --[&#x1F4D6;Barak, Sec 7.1](https://introtcs.org/public/lec_06_loops.html#turing-machines). ---[&#x1F3E0;PS7](https://colab.research.google.com/drive/1fIuWaGZAl12bfwZgl01RxyukB3b4wb14?usp=sharing).
-  - Class 18: Computability.  --[&#x1F4D6;Barak, Sec 7.2](https://introtcs.org/public/lec_06_loops.html#equivalence-of-turing-machines-and-nand-tm-programs). ---[&#x1F3E0;PS8](assets/pdf/cs3120-ps8.pdf).
+  - Class 17: Turing machines. --[&#x1F4D6;Barak, Sec 7.1](https://introtcs.org/public/lec_06_loops.html#turing-machines).
+  - Class 18: Computability.  --[&#x1F4D6;Barak, Sec 7.2](https://introtcs.org/public/lec_06_loops.html#equivalence-of-turing-machines-and-nand-tm-programs).
   - Class 19: Universal Turing Machines and Uncomputability. --[&#x1F4D6;Barak, Sec 9.1-9.3](https://introtcs.org/public/lec_08_uncomputability.html#universality-or-a-meta-circular-evaluator).
-  - Class 20: Halting problem, and reduction. --[&#x1F4D6;Barak, Sec 9.3-9.4](https://introtcs.org/public/lec_08_uncomputability.html#haltingsec). ---[&#x1F3E0;PS9](assets/pdf/cs3120-ps9.pdf).
+  - Class 20: Halting problem, and reduction. --[&#x1F4D6;Barak, Sec 9.3-9.4](https://introtcs.org/public/lec_08_uncomputability.html#haltingsec).
   - Class 21: Kolmogorov Complexity. --[Notes by Resch @ CMU](https://www.cs.cmu.edu/~venkatg/teaching/15252-sp20/notes/Kolmogorov-Complexity.pdf).
   - Class 22: Rice's Theorem. --[&#x1F4D6;Barak, Sec 9.5](https://introtcs.org/public/lec_08_uncomputability.html#rices-theorem-and-the-impossibility-of-general-software-verification).
 
 (Apr 7)
 
 - Complexity, completeness, NP. (5 classes)
-  - Class 23: Complexity, and class P. --[&#x1F4D6;Barak, Sec 13.1-13.2](https://introtcs.org/public/lec_11_running_time.html). ---[&#x1F3E0;PS10](assets/pdf/cs3120-ps10.pdf).
+  - Class 23: Complexity, and class P. --[&#x1F4D6;Barak, Sec 13.1-13.2](https://introtcs.org/public/lec_11_running_time.html).
   - Class 24: Reductions, and class NP. --[&#x1F4D6;Barak, Sec 12.1-12.2, 15.1](https://introtcs.org/public/lec_10_efficient_alg.html).
   - Class 25: P vs NP vs EXP, NP-Complete. --[&#x1F4D6;Barak, Sec 15.1.2, 15.2](https://introtcs.org/public/lec_13_Cook_Levin.html#basic-facts-about-mathbfnp).
   - Class 26: Cook-Levin Theorem. --[&#x1F4D6;Barak, Sec 15.3-15.6](https://introtcs.org/public/lec_13_Cook_Levin.html#the-nandsat-problem-and-why-it-is-mathbfnp-hard).
