@@ -20,6 +20,14 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 0: Goals and grading
+(Apr 29, 2025)
+
+We talked about Karatsuba's multiplication and grading.
+Slides are [here](assets/pdf/cs3120-class0-ink.pdf). Quiz 0 is posted on Gradescope.
+
+
+
 <!-- {: .announce-title}
 > Class 27: Reductions, Review, and Gödel's Incompleteness
 > 
