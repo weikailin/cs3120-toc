@@ -82,9 +82,10 @@ should take the class.
   [communications](#communication) to determine if it would be better to post a message
   in [*Piazza*](https://piazza.com/virginia/spring2026/cs3120) before emailing us).
 
-**Office Hours:** The full office hours schedule is not yet determined, but it will be available on the [course calendar](https://calendar.google.com/calendar/embed?src=292e8ddb35fbfb071102435db2822547ef891ab66dfd7eb00e075e0ea54a45bd%40group.calendar.google.com).
+**Office Hours:** The full office hours schedule is available on the [course calendar](https://calendar.google.com/calendar/embed?src=292e8ddb35fbfb071102435db2822547ef891ab66dfd7eb00e075e0ea54a45bd%40group.calendar.google.com).
 
 ![Wei-Kai](assets/images/20231027-wei-kai-lin-square.jpg){: style="display: block; margin: 0 auto; border-radius: 50%; max-width: 10em;"}
+Office hour: Mondays, 11am - 12pm, Rice Hall 505.
 
 **Teaching Assisants:** 
 
