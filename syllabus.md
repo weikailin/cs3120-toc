@@ -226,7 +226,7 @@ response within 24 hours (even on weekdays).
 
 ## Assignments and Exams
 
-### Problem Sets
+### Homework Assignments
   Most learning in this course is done by working to
   solve problems on your own and in collaboration with others. We will
   have a problem set due most weeks in the course (typically on
@@ -255,7 +255,8 @@ Because the timing of pre-reading and reclection are essential, we disallow late
  -->
 
 ### Exams
-We will have the following exams in the semester:
+We will have the following exams in the semester.
+We count the best 3 out of 4 midterms.
 
 - **Midterm 0**: In class, **Tuesday, Feb 3, 2026**.
 - **Midterm 1**: In class, **Tuesday, Feb 24, 2026**.
@@ -306,7 +307,7 @@ receive in the course:
 
 | Item                      | Standard Weighting                          |
 |---------------------------|---------------------------------------------|
-|Problem Sets (10 expected) | 27%     |
+|Homework (10 expected)     | 27%     |
 |Quizzes                    | 5%      |
 |Midterm                    | 45%     |
 |Final Exam                 | 23%     |
