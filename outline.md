@@ -11,16 +11,20 @@ Course outline, tentative:
   - Class 2: Definitions. ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html).
   - Class 3: Sets, numbers, strings. ---[&#x1F4D6;Barak, Sec 2](https://introtcs.org/public/lec_02_representation.html).
   - Class 4: Cantor's theorem, countable and uncountable, functions. ---[&#x1F4D6;Barak, Sec 2.4](https://introtcs.org/public/lec_02_representation.html#cantorsec).
-  - Class 5: Cantor's Theorem, computation. ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).
+    <!-- [HW0 due Jan 23, prog] -->
+  - Class 5: Cantor's Theorem, computation. ---[&#x1F4D6;Barak, Sec 3](https://introtcs.org/public/lec_03_computation.html).    
 
 (Jan 27)
 
 - Boolean circuits, universal circuits, and circuit complexity. (5-6 classes, [announcements](1-circuit.md))
   - Class 6: Computation models, universality. ---[&#x1F4D6;Barak, Sec 4](https://introtcs.org/public/lec_03a_computing_every_function.html).
+    <!-- [HW1 due Jan 30, written] -->
   - Class 7: Universality, circuit size. --[&#x1F4D6;Barak, Sec 4.6](https://introtcs.org/public/lec_03a_computing_every_function.html).
   - Class 8: Circuits vs functions, program as data. --[&#x1F4D6;Barak, Sec 5](https://introtcs.org/public/lec_04_code_and_data.html).
+    <!-- [HW2 due Feb 13, prog] -->
   - Class 9: Lower bound on circuit size. --[&#x1F4D6;Barak, Sec 5.2](https://introtcs.org/public/lec_04_code_and_data.html#countingcircuitsec)
   - Class 10: Circuit size hierarchy. --[&#x1F4D6;Barak, Sec 5.2.1](https://introtcs.org/public/lec_04_code_and_data.html#size-hierarchy-theorem-optional)
+    <!-- [HW3 due Feb 20, written] -->
   - Class 11: Universal circuit.  --[&#x1F4D6;Barak, Sec 5.4](https://introtcs.org/public/lec_04_code_and_data.html#a-nand-circ-interpreter-in-nand-circ)
 
 (Feb 17)
@@ -28,9 +32,9 @@ Course outline, tentative:
 - Finite automata, regular expression. (6 classes, [announcements](2-dfa.md))
   - Class 11: Function with infinite domains, finite automata. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html)
   - Class 12: Regular expressions. --[&#x1F4D6;Barak, Sec 6](https://introtcs.org/public/lec_05_infinite.html).
+    <!-- [HW4 due Feb 27, prog] -->
   - Class 13: Evaluating regular expressions. --[&#x1F4D6;Barak, Sec 6.3-6.4](https://introtcs.org/public/lec_05_infinite.html#regexpsec).
   - Class 14: Limitations of regular expressions. --[&#x1F4D6;Barak, Sec 6.5](https://introtcs.org/public/lec_05_infinite.html#limitations-of-regular-expressions-and-the-pumping-lemma)
-  - Midterm, March 6.
   - Class 15: DFA is computable by regular expressions. --[&#x1F4D6;Barak, Sec 6.4.2](https://introtcs.org/public/lec_05_infinite.html#regdfaequivsec)
   - Class 16: Regular expressions is computable by DFA. --[&#x1F4D6;Sipser, Introduction to the Theory of Computation, Sec 1.2-1.3, Theorem 1.39 and "closure under the regular operations"](https://search.lib.virginia.edu/sources/uva_library/items/u2911801)
 

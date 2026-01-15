@@ -20,12 +20,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 1: Definitions
+(Jan 15, 2026)
+
+We talked about constructive difinitions, natural numbers, binary strings, and sets. 
+Slides are [here](assets/pdf/cs3120-class1-ink.pdf).
+Homework 0 is coming soon.
+
 ### Class 0: Goals and grading
-(Apr 29, 2025)
+(Jan 13, 2026)
 
 We talked about Karatsuba's multiplication and grading.
 Slides are [here](assets/pdf/cs3120-class0-ink.pdf). Quiz 0 is posted on Gradescope.
-
 
 
 <!-- {: .announce-title}
@@ -88,11 +94,9 @@ Slides are [here](assets/pdf/cs3120-class0-ink.pdf). Quiz 0 is posted on Gradesc
 - [Module 3: Finite Automata](2-dfa.md)
 - [Module 4: Computability](3-tm.md)
  -->
-{: .announce-title}
-> Tentative syllabus posted
-> 
-> Please take a look at [the syllabus](syllabus.md) although it could change later.
-> 
-> Jan 9, 2026.
+### Tentative syllabus posted
+(Jan 9, 2026)
+
+Please take a look at [the syllabus](syllabus.md) although it could change later.
 
 
