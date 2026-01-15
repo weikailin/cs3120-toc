@@ -23,7 +23,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 ### Class 1: Definitions
 (Jan 15, 2026)
 
-We talked about constructive difinitions, natural numbers, binary strings, and sets. 
+We talked about constructive definitions, natural numbers, binary strings, and sets. 
 Slides are [here](assets/pdf/cs3120-class1-ink.pdf).
 Homework 0 is coming soon.
 
