@@ -20,12 +20,21 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 2: Cardinality
+(Jan 20, 2026)
+
+We talked about why study theory, infinite binary strings, and cardinality. 
+Slides are [here](assets/pdf/cs3120-class2-ink.pdf).
+Quiz 1 is coming in 24 hours.
+
 ### Class 1: Definitions
 (Jan 15, 2026)
 
 We talked about constructive definitions, natural numbers, binary strings, and sets. 
 Slides are [here](assets/pdf/cs3120-class1-ink.pdf).
-Homework 0 is coming soon.
+Homework 0 is [posted](
+
+https://colab.research.google.com/drive/1F4idQXXtNHKJ1MWNKlg4U66Z2o1YgK1f?usp=sharing), which shall be submitted to Gradescope.
 
 ### Class 0: Goals and grading
 (Jan 13, 2026)
