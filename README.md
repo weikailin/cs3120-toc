@@ -26,7 +26,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 We defined Infinity, countable, and showed there are uncountable sets.
 Slides are [here](assets/pdf/cs3120-class3-ink.pdf).
 Quiz 1 is posted on Gradescope.
-Homework 1 will be posted today.
+[Homework 1 is posted](assets/pdf/cs3120-hw1.pdf).
 
 We skipped a proof of the following theorem. Here is it.
 
