@@ -30,13 +30,13 @@ Homework 1 will be posted today.
 
 We skipped a proof of the following theorem. Here is it.
 
-#### Theorem: If a set $$S$$ is countably infinite, then $$|S| = |\N|$$.
+#### Theorem: If a set $$S$$ is countably infinite, then $$\|S\| = |\N|$$.
 
-1. We will prove that $$|S| \le |\N|$$ and $$|S| \ge |\N|$$ holds, which implies $$|S| = |\N|$$ by (Cantor-)Schröder–Bernstein Theorem.
-2. We have $$|S| \le |\N|$$ by $$S$$ is countable.
-3. It remains to prove that $$|S| \ge |\N|$$. That is, we want to show a surjective function $$g: S \to \N$$. Such $$g$$ is constructed (or described) below. 
-    1. By $$S$$ is Dedekind infinite, there exists a strict subset $$T\subsetneq S$$ such that $$|S| = |T|$$.
-    6. By $$|S| = |T|$$, there is a bijection $$f: S \to T$$.
+1. We will prove that $$\|S\| \le |\N|$$ and $$\|S\| \ge |\N|$$ holds, which implies $$\|S\| = |\N|$$ by (Cantor-)Schröder–Bernstein Theorem.
+2. We have $$\|S\| \le |\N|$$ by $$S$$ is countable.
+3. It remains to prove that $$\|S\| \ge |\N|$$. That is, we want to show a surjective function $$g: S \to \N$$. Such $$g$$ is constructed (or described) below. 
+    1. By $$S$$ is Dedekind infinite, there exists a strict subset $$T\subsetneq S$$ such that $$\|S\| = |T|$$.
+    6. By $$\|S\| = |T|$$, there is a bijection $$f: S \to T$$.
     7. Let $$U_0 = S$$, and let $$U_i = \{f(x) \mid x \in U_{i-1} \}$$ for all natural numbers $$i > 0$$. That is, $$U_i$$ is the set of elements that are mapped from $$U_{i-1}$$ by $$f$$. Note that $$U_1 = T$$.
     5. By strict subset, there exists $$a_0 \in T, a_0 \notin S$$. 
     8. Let $$a_i = f(a_{i-1})$$ for all natural numbers $$i > 0$$. We have $$a_i \in U_i$$ for all $$i \in \N$$ by definition of $$U_i$$ and $$a_i$$ (an induction is needed to be strictly formal).
