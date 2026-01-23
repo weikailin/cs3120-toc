@@ -19,6 +19,12 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 
 ## Recent Announcements
+(Jan 22, 2026)
+
+We defined Infinity, countable, and showed there are uncountable sets.
+Slides are [here](assets/pdf/cs3120-class3-ink.pdf).
+Quiz 1 is posted on Gradescope.
+Homework 1 will be posted today.
 
 ### Class 2: Cardinality
 (Jan 20, 2026)
