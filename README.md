@@ -28,6 +28,32 @@ Slides are [here](assets/pdf/cs3120-class3-ink.pdf).
 Quiz 1 is posted on Gradescope.
 Homework 1 will be posted today.
 
+We skipped a proof of the following theorem. Here is it.
+
+#### Theorem: If a set $$S$$ is countably infinite, then $$|S| = |\N|$$.
+
+1. We will prove that $$|S| \le |\N|$$ and $$|S| \ge |\N|$$ holds, which implies $$|S| = |\N|$$ by (Cantor-)Schröder–Bernstein Theorem.
+2. We have $$|S| \le |\N|$$ by $$S$$ is countable.
+3. It remains to prove that $$|S| \ge |\N|$$. That is, we want to show a surjective function $$g: S \to \N$$. Such $$g$$ is constructed (or described) below. 
+    1. By $$S$$ is Dedekind infinite, there exists a strict subset $$T\subsetneq S$$ such that $$|S| = |T|$$.
+    6. By $$|S| = |T|$$, there is a bijection $$f: S \to T$$.
+    7. Let $$U_0 = S$$, and let $$U_i = \{f(x) \mid x \in U_{i-1} \}$$ for all natural numbers $$i > 0$$. That is, $$U_i$$ is the set of elements that are mapped from $$U_{i-1}$$ by $$f$$. Note that $$U_1 = T$$.
+    5. By strict subset, there exists $$a_0 \in T, a_0 \notin S$$. 
+    8. Let $$a_i = f(a_{i-1})$$ for all natural numbers $$i > 0$$. We have $$a_i \in U_i$$ for all $$i \in \N$$ by definition of $$U_i$$ and $$a_i$$ (an induction is needed to be strictly formal).
+    9. Let $$g$$ to be the partial function that maps $$a_i$$ to $$i$$ (there may exists an element in $$S$$ that is not mapped to anything, so it is partial). This is the construction of $$g$$
+4. It remains to argue $$g$$ is surjective.
+5. Clearly, each $$i\in\N$$ is mapped from (or receives) exactly one element in $$S$$.
+6. We want to argue that $$a_i \neq a_j$$ for all $$i\neq j$$, which implies that each element in $$S$$ is mapped to at most one natural number and that $$g$$ is surjective.
+7. We claim that $$a_i \notin U_{i+1}$$ for all $$i \in \N$$.
+8. Because $$U_{j+1}\subseteq U_j$$ for all $$j\in\N$$, the claim implies $$a_i \notin U_j$$ for all $$i < j$$.
+9. Given that $$a_j \in U_j$$, the claim implies $$a_i \neq a_j$$ for all $$i < j$$. 
+    1. To prove the claim, assume for contradiction, there exists $$a_i \in U_{i+1}$$ for some $$i$$ (for some $$S$$, bijection $$f$$, element $$a_0$$). Let $$k$$ be the smallest natural number satisfying such Property.
+    2. We have $$k > 0$$ as $$a_0 \notin U_1$$.
+    3. Since $$f$$ is a bijection, we have a unique $$f^{-1}(a_k) = a_{k-1}$$. 
+    4. Since $$f$$ is a bijection and $$f$$ maps from $$U_k$$ to $$U_{k+1}$$, $$f$$ is also a bijection between $$U_k$$ and $$U_{k+1}$$.
+    5. By $$a_k \in U_{k+1}$$ and $$f$$ is bijective between $$U_k$$ and $$U_{k+1}$$, we have $$f^{-1}(a_k) \in U_k$$.
+    6. But $$f^{-1}(a_k) = a_{k-1} \in U_k$$ means $$k-1$$ also satisfy the Property, contradicting that $k$ is the smallest. This concludes the claim and the theorem.
+
 ### Class 2: Cardinality
 (Jan 20, 2026)
 
