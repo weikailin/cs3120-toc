@@ -19,6 +19,8 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 
 ## Recent Announcements
+
+### Class 3: Infinity
 (Jan 22, 2026)
 
 We defined Infinity, countable, and showed there are uncountable sets.
