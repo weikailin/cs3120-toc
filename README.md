@@ -20,6 +20,13 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 4: Cantor's Theorem, Finite Automata
+(Jan 27, 2026)
+
+We proved Cantor's Theorem, and then we introduced finite automata as the beginning of the next module.
+Slides are [here](assets/pdf/cs3120-class4-ink.pdf).
+Quiz 2 is posted on Gradescope.
+
 ### Class 3: Infinity
 (Jan 22, 2026)
 
