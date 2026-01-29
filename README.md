@@ -20,6 +20,13 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 5: Regular Expressions
+(Jan 29, 2026)
+
+We talked about the syntax and evaluation of regular expressions. Then, we stated the equivalence between regular expressions and finite automata. We also reviewed the materials of Midterm 0 briefly.
+Slides are [here](assets/pdf/cs3120-class5-ink.pdf).
+Homework 2 is coming soon.
+
 ### Class 4: Cantor's Theorem, Finite Automata
 (Jan 27, 2026)
 
