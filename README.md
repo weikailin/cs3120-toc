@@ -20,7 +20,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
-### Class 6: Regular Expressions
+### Class 6: Regular Expressions vs DFA
 (Feb 3, 2026)
 
 We finished Midterm 0 (yay~)!
