@@ -20,6 +20,15 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 6: Regular Expressions
+(Feb 3, 2026)
+
+We finished Midterm 0 (yay~)!
+After that, we showed the powerful theorem, DFAs and Regular Expressions are equivalent, and its applications.
+They are positive results, and we went on with negative results and Pumping Lemma.
+Slides are [here](assets/pdf/cs3120-class6-ink.pdf).
+Quiz 3 is posted on Gradescope.
+
 ### Class 5: Regular Expressions
 (Jan 29, 2026)
 
