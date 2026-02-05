@@ -20,6 +20,14 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 7: DFA to Regular Expressions
+(Feb 5, 2026)
+
+We applied Pumping Lemma to show a few languages are not regular (i.e., some problems and functions can not be computed using DFA).
+Then, we proved that for every DFA, we can construct an equivalent regular expression. 
+Slides are [here](assets/pdf/cs3120-class7-ink.pdf).
+HW 3 is coming soon.
+
 ### Class 6: Regular Expressions vs DFA
 (Feb 3, 2026)
 
