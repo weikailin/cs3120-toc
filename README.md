@@ -24,9 +24,9 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 (Feb 5, 2026)
 
 We applied Pumping Lemma to show a few languages are not regular (i.e., some problems and functions can not be computed using DFA).
-Then, we proved that for every DFA, we can construct an equivalent regular expression. 
+Then, we proved that for every DFA, we can construct an equivalent regular expression. The idea is a cool recursion technique that breaks the a DFA into smaller sub-DFAs (and thus subproblems).
 Slides are [here](assets/pdf/cs3120-class7-ink.pdf).
-HW 3 is coming soon.
+HW 3 is [here](assets/pdf/cs3120-hw3.pdf).
 
 ### Class 6: Regular Expressions vs DFA
 (Feb 3, 2026)
