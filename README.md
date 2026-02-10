@@ -20,6 +20,16 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 8: Non-deterministic Finite Automata
+(Feb 10, 2026)
+
+We aimed to construct DFA from any regular expression, which is challenging.
+To do that, we defined non-deterministic finite automata (NFA), and we showed that we can construct NFA from any regular expression.
+Slides are [here](assets/pdf/cs3120-class8-ink.pdf).
+
+Quiz 4 is coming soon.
+Midterm 0 grades will be posted soon. 
+
 ### Class 7: DFA to Regular Expressions
 (Feb 5, 2026)
 
