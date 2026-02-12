@@ -20,6 +20,15 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 9: NFA to DFA
+(Feb 12, 2026)
+
+We reviewed a couple of questions in Midterm 0; it aims to explain more generally how we ask and answer questions in this course. 
+Then, we finished this Module with the construction from any NFA to DFA.
+Slides are [here](assets/pdf/cs3120-class9-ink.pdf).
+
+HW 4 is coming soon.
+
 ### Class 8: Non-deterministic Finite Automata
 (Feb 10, 2026)
 
