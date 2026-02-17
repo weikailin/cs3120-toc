@@ -20,6 +20,17 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 10: Universal circuits
+(Feb 17, 2026)
+
+We introduced straight-line programs using AND/OR/NOT gates, which is called a universal set of gates.
+Using those gates, we also showed that any $$k$$-bit input functions can be computed using $$O(2^k)$$ number of gates. 
+Slides are [here](assets/pdf/cs3120-class10-ink.pdf).
+
+Quiz 5 is posted on Gradescope.
+HW 4 is posted [here](https://colab.research.google.com/drive/1JWMFx4tBLm1K8UE7zdu8yvqGtNXLdhi1?usp=sharing).
+Midterm 1 is next Tuesday, 9:30am, 20 minutes.
+
 ### Class 9: NFA to DFA
 (Feb 12, 2026)
 
