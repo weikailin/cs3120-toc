@@ -20,7 +20,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
-### Class 11: Universal circuits
+### Class 11: Non-universal gates, and complexity
 (Feb 19, 2026)
 
 We reviewed Midterm 1 materials, but we also showed a non-regular language that satisfies the pumping properties.
