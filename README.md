@@ -20,6 +20,13 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 11: Universal circuits
+(Feb 19, 2026)
+
+We reviewed Midterm 1 materials, but we also showed a non-regular language that satisfies the pumping properties.
+After that, we proved a set of gates that is not universal, and we introduced circuit size classes.  
+Slides are [here](assets/pdf/cs3120-class11-ink.pdf).
+
 ### Class 10: Universal circuits
 (Feb 17, 2026)
 
