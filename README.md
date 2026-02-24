@@ -20,6 +20,17 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 12: Program as Data
+(Feb 24, 2026)
+
+Midterm 1 is finished :D
+We continued with circuit sizes and showed that all $$s$$-gate circuits can be described in $$O(s \log s)$$ bits.
+That is a big idea! Using that representation, we can execute a string as program. 
+Also, by counting the strings, we proved the existence of "hard" functions that cannot be computed using a small number of gates. 
+Slides are [here](assets/pdf/cs3120-class12-ink.pdf).
+
+Quiz 6 is posted on Gradescope.
+
 ### Class 11: Non-universal gates, and complexity
 (Feb 19, 2026)
 
