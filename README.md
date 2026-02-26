@@ -20,6 +20,16 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+### Class 13: Circuit size hierarchy
+(Feb 26, 2026)
+
+Chase Fickes lectured the theorem and the proof of circuit size hierarchy. 
+Following the theorem, we talked about the lower bounds of circuit sizes briefly; notice that the circuit size hierarchy is a *existential* lower bound.
+Personally, I wish I had learned this theorem when I was an undergraduate, but it is more often skipped in many other courses on the theory of computation.
+Slides are [here](assets/pdf/cs3120-class13-ink-merged.pdf), which concatenates slides from Chase and me.
+
+HW 5 is coming soon and due after Spring break.
+
 ### Class 12: Program as Data
 (Feb 24, 2026)
 
