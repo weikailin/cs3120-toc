@@ -230,5 +230,6 @@ Slides are [here](assets/pdf/cs3120-class0-ink.pdf). Quiz 0 is posted on Gradesc
 Please take a look at [the syllabus](syllabus.md) although it could change later.
 
 
+## List of Updates
 1. TOC
 {:toc}
