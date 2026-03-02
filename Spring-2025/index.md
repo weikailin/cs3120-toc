@@ -13,7 +13,7 @@ has_toc: false
 {: .caution }
 **This is a Archived page.**
 For the most recent course of CS3120, go to [the root page](../README.md).
-Pages: 
+Here are some links for navigation: 
 [Syllabus](syllabus.md),
 [Calendar](calendar.md),
 [Outline](outline.md), 
