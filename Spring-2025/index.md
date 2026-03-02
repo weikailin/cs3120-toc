@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CS3120 - Spring 2025
-nav_exclude: false
+nav_exclude: true
 seo:
   type: Course
   name: Theory of Computation
