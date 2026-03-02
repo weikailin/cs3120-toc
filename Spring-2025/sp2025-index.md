@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
 title: CS3120 - Spring 2025
 nav_exclude: false
-permalink: /:path/
 seo:
   type: Course
   name: Theory of Computation
@@ -10,6 +9,11 @@ has_children: true
 has_toc: false
 parent: Archive
 ---
+
+
+{: .caution }
+**This is a Archived page.**
+For the most recent course of CS3120, go to [the root page](README.md).
 
 
 UVA CS 3120 Theory of Computation (Wei-Kai Lin)
