@@ -3,7 +3,14 @@ layout: page
 title: Links
 nav_order: 100
 nav_exclude: false
+parent: CS3120 - Spring 2025
 ---
+
+
+{: .caution }
+**This is a Archived page.**
+For the most recent course of CS3120, go to [the root page](../README.md).
+
 
 Textbook:** Boaz Barak, [_Introduction to Theoretical Computer Science_](https://introtcs.org/public/index.html). [Single PDF](https://files.boazbarak.org/introtcs/lnotes_book.pdf),
 

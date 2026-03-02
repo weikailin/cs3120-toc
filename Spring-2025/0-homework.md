@@ -3,7 +3,14 @@ layout: page
 title: Homework
 nav_order: -1
 nav_exclude: true
+parent: CS3120 - Spring 2025
 ---
+
+
+{: .caution }
+**This is a Archived page.**
+For the most recent course of CS3120, go to [the root page](../README.md).
+
 
 Homework
 ========

@@ -3,7 +3,14 @@ layout: page
 title: Calendar
 nav_order: 0
 nav_exclude: false
+parent: CS3120 - Spring 2025
 ---
+
+
+{: .caution }
+**This is a Archived page.**
+For the most recent course of CS3120, go to [the root page](../README.md).
+
 
 
 This is the public Google calendar, displayed:

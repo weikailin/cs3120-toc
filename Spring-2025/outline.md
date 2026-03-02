@@ -3,7 +3,15 @@ layout: page
 title: Outline
 nav_order: 99
 nav_exclude: false
+parent: CS3120 - Spring 2025
 ---
+
+
+{: .caution }
+**This is a Archived page.**
+For the most recent course of CS3120, go to [the root page](../README.md).
+
+
 
 Course outline, tentative: 
 - Introduction, sets, defining computation. (4-5 classes, [announcements](0-intro.md))
