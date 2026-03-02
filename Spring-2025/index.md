@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CS3120 - Spring 2025
 nav_exclude: false
 seo:
@@ -7,7 +7,6 @@ seo:
   name: Theory of Computation
 has_children: true
 has_toc: false
-parent: Archive
 ---
 
 
