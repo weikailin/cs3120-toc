@@ -13,7 +13,7 @@ parent: Archive
 
 {: .caution }
 **This is a Archived page.**
-For the most recent course of CS3120, go to [the root page](README.md).
+For the most recent course of CS3120, go to [the root page](../README.md).
 
 
 UVA CS 3120 Theory of Computation (Wei-Kai Lin)
