@@ -155,9 +155,7 @@ Quiz 1 is coming in 24 hours.
 
 We talked about constructive definitions, natural numbers, binary strings, and sets. 
 Slides are [here](assets/pdf/cs3120-class1-ink.pdf).
-Homework 0 is [posted](
-
-https://colab.research.google.com/drive/1F4idQXXtNHKJ1MWNKlg4U66Z2o1YgK1f?usp=sharing), which shall be submitted to Gradescope.
+Homework 0 is [posted](https://colab.research.google.com/drive/1F4idQXXtNHKJ1MWNKlg4U66Z2o1YgK1f?usp=sharing), which shall be submitted to Gradescope.
 
 ### Class 0: Goals and grading
 (Jan 13, 2026)
