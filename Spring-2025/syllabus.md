@@ -3,6 +3,7 @@ layout: page
 title: Syllabus
 nav_order: 0
 nav_exclude: false
+parent: CS3120 - Spring 2025
 ---
 
 Syllabus

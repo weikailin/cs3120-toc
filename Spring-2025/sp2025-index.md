@@ -1,11 +1,14 @@
 ---
 layout: home
-title: CS3120 Theory of Computation (UVA)
-nav_exclude: true
+title: CS3120 - Spring 2025
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
   name: Theory of Computation
+has_children: true
+has_toc: false
+parent: Archive
 ---
 
 
