@@ -9,6 +9,29 @@ has_children: true
 has_toc: false
 ---
 
+<!-------------------------------------------------------------------------
+Steps to "archive" the website 
+=============================================
+1. Move README.md to subfolder/index.md
+2. Move all *.md and assets/* into subfolder
+3. Edit index.md header: 
+   - layout: default
+   - title: unique parent title
+   - nav_exclude: true # to avoid confusion with the current site
+   - has_children: true # seems deprecated as of 2026
+   - has_toc: false # redundant?
+4. Edit all other *.md:
+   - parent: unique parent title
+5. Edit all *.md content:
+{: .caution }
+**This is a Archived page.**
+Link to [the root page](../README.md).
+
+## Notes
+All relative paths, such as xxx.md or assets/pdf/xxx.pdf, are preserved.
+## Future work
+Maybe making a different laynout with a different bgcolor for whole page.
+------------------------------------------------------------------------->
 
 {: .caution }
 **This is a Archived page.**
