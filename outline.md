@@ -5,7 +5,7 @@ nav_order: 99
 nav_exclude: false
 ---
 
-Course outline so far: 
+Course outline (updated Mar 2, 2026):
 - Sets and Cardinality. (4-5 classes)
   - Class 0: Introduction. ---[&#x1F4D6;Barak, Sec 0](https://introtcs.org/public/lec_01_introduction.html).
   - Class 1: Definitions. ---[&#x1F4D6;Barak, Sec 1](https://introtcs.org/public/lec_00_1_math_background.html).
