@@ -20,6 +20,8 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 ## Recent Announcements
 
+[(List of announcements)](#list-of-updates)
+
 ### Class 13: Circuit size hierarchy
 (Feb 26, 2026)
 
