@@ -22,6 +22,16 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 14: Introducing Turing Machines
+(Mar 10, 2026)
+
+We talked about a [recent covering on Cantor and Dedekind](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/), and we wrapped up the circuit module with the Physically Extended Church-Turing Thesis.
+Then, we introduced Turing Machines, which started the next module of this course.
+Slides are [here](assets/pdf/cs3120-class14-ink.pdf).
+
+HW 5 is [posted](assets/pdf/cs3120-hw5.pdf).
+Quiz 7 is coming soon.
+
 ### Class 13: Circuit size hierarchy
 (Feb 26, 2026)
 
