@@ -23,7 +23,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 [(List of announcements)](#list-of-updates)
 
 ### Class 15: Executing Turing Machines
-(Mar 10, 2026)
+(Mar 12, 2026)
 
 We reviewed a couple of questions in Midterm 1, especially the finite memory of the Tamagotchi toy.
 That contrasts the infinite memory tape of the Turing Machine model.
