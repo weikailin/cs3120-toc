@@ -22,10 +22,23 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 15: Executing Turing Machines
+(Mar 10, 2026)
+
+We reviewed a couple of questions in Midterm 1, especially the finite memory of the Tamagotchi toy.
+That contrasts the infinite memory tape of the Turing Machine model.
+We continued with the executing of TM and the input and output formats.
+Although writing TM programs is not a major goal of this course, we looked at the palindrome example to see how TM works.
+We talked a bit about the life of Alan Turing, including that his photo and his writing are printed on the UK bank notes. 
+Slides are [here](assets/pdf/cs3120-class15-ink.pdf).
+
+HW 6 is coming soon.
+Quiz 7 is posted on Gradescope.
+
 ### Class 14: Introducing Turing Machines
 (Mar 10, 2026)
 
-We talked about a [recent covering on Cantor and Dedekind](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/), and we wrapped up the circuit module with the Physically Extended Church-Turing Thesis.
+We talked about a [recent covering on Cantor and Dedekind](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/), and we wrapped up the circuit module with the Physical Extended Church-Turing Thesis.
 Then, we introduced Turing Machines, which started the next module of this course.
 Slides are [here](assets/pdf/cs3120-class14-ink.pdf).
 
