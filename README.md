@@ -22,6 +22,17 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 16: Variants of Turing Machines
+(Mar 17, 2026)
+
+We considered other potential ways to define Turing Machine as a computation model.
+They include a larger alphabet, a two-way infinite tape, and using two tapes, and there are more other definitions in terms of input or input. 
+We wrapped up with defining Random-Access Machines, and we will continue from here in the next meeting.
+Slides are [here](assets/pdf/cs3120-class16-ink.pdf).
+
+HW 6 is [here](https://colab.research.google.com/drive/1sa2knwOCTNzLHPf9VqGeuQP89DnofzXu?usp=sharing).
+Quiz 8 is posted on Gradescope.
+
 ### Class 15: Executing Turing Machines
 (Mar 12, 2026)
 
