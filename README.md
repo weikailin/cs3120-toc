@@ -22,6 +22,16 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 17: Turing Completeness
+(Mar 19, 2026)
+
+We reviewed key concepts in the circuits module.
+Continuing on the topic of computability, we discussed more about Random-Access Machines (RAM).
+We informally argued that RAM is equivalent to Turing Machines (TM) in terms of computability. 
+This also implies that many programming languages and computation models are "Turing complete," meaning that they are equivalent to TM.
+We ended with introducing "computable numbers" that are discussed in Turing's paper.
+Slides are [here](assets/pdf/cs3120-class17-ink.pdf).
+
 ### Class 16: Variants of Turing Machines
 (Mar 17, 2026)
 
