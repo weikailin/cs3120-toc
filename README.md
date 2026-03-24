@@ -22,6 +22,15 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 18: Universal Turing Machine
+(Mar 24, 2026)
+
+Midterm 2 is finished!
+We recapped Turing completeness and showed many Turing complete programming languages games.
+We then defined universal Turing Machines, and we introduced "computability" as whether a function or a number can be computed by a Turing Machine.
+Next class, we will discuss computable and uncomputable functions using universal Turing Machines.
+Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
+
 ### Class 17: Turing Completeness
 (Mar 19, 2026)
 
