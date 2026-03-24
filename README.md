@@ -31,6 +31,8 @@ We then defined universal Turing Machines, and we introduced "computability" as 
 Next class, we will discuss computable and uncomputable functions using universal Turing Machines.
 Slides are [here](assets/pdf/cs3120-class18-ink.pdf).
 
+Quiz 9 is posted on Gradescope.
+
 ### Class 17: Turing Completeness
 (Mar 19, 2026)
 
