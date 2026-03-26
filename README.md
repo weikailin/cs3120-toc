@@ -22,6 +22,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 19: Halting Problem
+(Mar 26, 2026)
+
+We recapped computability, and then we introduced our first uncomputable function, called Not-Self-Accepting or NSA for short.
+NSA is carefully defined (by our textbook) so that the proof of its uncomputability is more accessible through a diagonalization arugment (or more generally a proof by contradiction).
+Given that NSA is uncomputable, we proved that the Halting Problem is also uncomputable by "reduction."
+Reduction is an extremely important technique and will appear multiple times in the coming weeks. 
+Slides are [here](assets/pdf/cs3120-class19-ink.pdf).
+Handout is [here](assets/pdf/cs3120-class19-handout.pdf)
+
+Homework 7 is coming soon.
+
 ### Class 18: Universal Turing Machine
 (Mar 24, 2026)
 
