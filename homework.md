@@ -17,3 +17,4 @@ Here is a list of homework assignments.
 - [Homework 4](https://colab.research.google.com/drive/1JWMFx4tBLm1K8UE7zdu8yvqGtNXLdhi1?usp=sharing): a programming assignment, reviewing non-deterministic finite automata and pumping lemma.
 - [Homework 5](assets/pdf/cs3120-hw5.pdf): a written assignment, reviewing circuit sizes.
 - [Homework 6](https://colab.research.google.com/drive/1sa2knwOCTNzLHPf9VqGeuQP89DnofzXu?usp=sharing): a programming assignment, reviewing the definition of Turing machine.
+- [Homework 7](assets/pdf/cs3120-hw7.pdf): a written assignment, reviewing Turing Machines and computability.
