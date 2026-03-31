@@ -22,7 +22,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
-### Class 19: Halting Problem
+### Class 20: Reductions, and Rice's Theorem
 (Mar 31, 2026)
 
 We recapped the uncomputable function HALT, also called the Halting Problem, and then we discussed the theoretical and practical meaning of the theorem.
