@@ -23,6 +23,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 [(List of announcements)](#list-of-updates)
 
 ### Class 19: Halting Problem
+(Mar 31, 2026)
+
+We recapped the uncomputable function HALT, also called the Halting Problem, and then we discussed the theoretical and practical meaning of the theorem.
+Also, we formally introduced the concept of *reduction*.
+It is a useful framework to prove uncomputability, but it is also an essential technique to relate two seemingly unrelated problems.
+We introduced semantic properties and Rice's Theorem.
+Slides are [here](assets/pdf/cs3120-class20-ink.pdf).
+
+Homework 7 is [posted](assets/pdf/cs3120-hw7.pdf).
+Quiz 10 is coming soon and well be posted on Gradescope.
+
+### Class 19: Halting Problem
 (Mar 26, 2026)
 
 We recapped computability, and then we introduced our first uncomputable function, called Not-Self-Accepting or NSA for short.
