@@ -22,6 +22,14 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 21: Running Time
+(Apr 2, 2026)
+
+We recapped the statement of Rice's Theorem, and we discussed in detail which functions are *semantinc properties*.
+We also introduced the running time of Turing Machines and the Busy Beaver function.
+With that, we are almost concluding the module of computability.
+Slides are [here](assets/pdf/cs3120-class21-ink.pdf).
+
 ### Class 20: Reductions, and Rice's Theorem
 (Mar 31, 2026)
 
