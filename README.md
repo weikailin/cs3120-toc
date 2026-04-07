@@ -22,6 +22,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 22: Class P
+(Apr 7, 2026)
+
+We wrapped up the module on computability and started the last module of this course, complexity.
+The purpose of complexity is to know how much computational resources is needed to solve problems.
+For Turing Machines and real-world programs, running time and space are two different kinds of resources.
+We briefly talked about the relation between time and space, and then we moved to time complexity classes, TIME(T).
+We ended at the class $$\mathbf{P}$$ of functions that are computable in polynomial time.
+Slides are [here](assets/pdf/cs3120-class22-ink.pdf).
+
+Quiz 11 is posted on Gradescope.
+
 ### Class 21: Running Time
 (Apr 2, 2026)
 
