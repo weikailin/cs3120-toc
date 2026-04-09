@@ -22,6 +22,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 23: Class EXP
+(Apr 9, 2026)
+
+We reviewed computability fo the next Midterm 3, where redcutions and Rice's Theorem are important.
+We continued with complexity with some graph problems, Shortest Path and Longest Path, and we introduced the class $$\mathbf{EXP}$$, which consists of functions computable in exponential time.
+We also talked about search and decision problems using Longest Path as an example.
+We will talk about *polynomial-time* reductions next.
+Slides are [here](assets/pdf/cs3120-class23-ink.pdf).
+
+Homework 8 is [here](assets/pdf/cs3120-hw8.pdf).
+
+
 ### Class 22: Class P
 (Apr 7, 2026)
 
