@@ -25,7 +25,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 ### Class 23: Class EXP
 (Apr 9, 2026)
 
-We reviewed computability fo the next Midterm 3, where redcutions and Rice's Theorem are important.
+We reviewed computability for the next Midterm 3, where reductions and Rice's Theorem are important concepts.
 We continued with complexity with some graph problems, Shortest Path and Longest Path, and we introduced the class $$\mathbf{EXP}$$, which consists of functions computable in exponential time.
 We also talked about search and decision problems using Longest Path as an example.
 We will talk about *polynomial-time* reductions next.
