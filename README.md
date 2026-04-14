@@ -22,6 +22,19 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 24: Reductions and SAT
+(Apr 14, 2026)
+
+Midterm 3 is finished!
+Our course continued with polynomial-time reductions. 
+There are two different types of reduction, Karp reduction and Cook reduction, but in general, a reduction is just an algorithm that uses a subroutine for problem B to solves a problem A.
+We also introduced two satisfiability problems, CircuitSAT and 3SAT.
+We will introduce NP next.
+Slides are [here](assets/pdf/cs3120-class24-ink.pdf).
+
+Homework 8 is due this Friday.
+Theere is no quiz this week.
+
 ### Class 23: Class EXP
 (Apr 9, 2026)
 
