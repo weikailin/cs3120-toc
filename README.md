@@ -22,6 +22,18 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 25: Class NP
+(Apr 16, 2026)
+
+We introduced the complexity class **NP** today. 
+Many natural problems, including LongestPath, CircuitSAT, 3SAT, and COMPOSITE, are problems in **NP**, and we proved that $$P \subseteq NP \subseteq EXP$$.
+We then discussed the open question $$P$$ vs $$NP$$ with the definitions of classes **co-NP**, **NP-Hard**, and **NP-Complete**.
+Next, we will discuss and prove Cook-Levin Theorem.
+Slides are [here](assets/pdf/cs3120-class25-ink.pdf).
+
+Homework 8 is due this Friday.
+Homework 9 is coming soon.
+
 ### Class 24: Reductions and SAT
 (Apr 14, 2026)
 
