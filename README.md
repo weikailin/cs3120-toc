@@ -22,6 +22,16 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+### Class 26: Cook-Levin Theorem
+(Apr 21, 2026)
+
+We discussed and proved Cook-Levin Theorem.
+Particularly, we proved the theorem by a reduction from any problem in NP to CircuitSAT, and then another reduction from CircuitSAT to 3SAT.
+We also briefly showed an alternative definition of NP, where we defined Non-deterministic Turing Machines, and that is why NP is named by N.
+Slides are [here](assets/pdf/cs3120-class26-ink.pdf).
+
+Quiz 12 is posted on Gradescope.
+
 ### Class 25: Class NP
 (Apr 16, 2026)
 
