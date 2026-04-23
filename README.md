@@ -25,9 +25,8 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 ### Class 27: Implication of P vs NP
 (Apr 23, 2026)
 
-We discussed the implication of P vs NP.
-An important consequence is that almost all cryptography assume $$\mathbf{P} \neq \mathbf{NP}$$ at weakest (and it is possible we need stronger assumptions for crypto).
-Also, many other real-world combinatorial and optimization problems are NP-Complete. 
+We discussed the implications of P vs NP. 
+An important one is that almost all cryptography assumes $$\mathbf{P} \neq \mathbf{NP}$$ at weakest (and it is possible we need stronger assumptions for crypto). Also, many other real-world combinatorics and optimization problems are NP-Complete.
 In addition, some popular video/computer games are proven to be NP-Complete.
 We wrapped up with discussing graph 3-coloring problem and proving it NP-Complete.
 Slides are [here](assets/pdf/cs3120-class27-ink.pdf).
