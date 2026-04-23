@@ -22,7 +22,7 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
-### Class 26: Cook-Levin Theorem
+### Class 27: Implication of P vs NP
 (Apr 23, 2026)
 
 We discussed the implication of P vs NP.
