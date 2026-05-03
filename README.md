@@ -22,12 +22,22 @@ Prof. Pettit also teaches this course in this Spring 2026. The two sections use 
 
 [(List of announcements)](#list-of-updates)
 
+
+### Class 28: Review, Gödel's Imcompleteness Theorem
+(Apr 28, 2026)
+
+We reviewed the five modules in this course.
+As an exercise, we considered the set $$S$$ of infinite sequences of real numbers, $$S = \{(a_0, a_1, a_2, \dots) ~\mid~ a_i \in \mathbb{R} \text{ all } i \}$$, which is proved to be uncountable but the cardinality is the same as the real number set, $$|S| = |\mathbb{R}|$$.
+We also briefly introduced proof systems in the view of algorithms, and we showed a variant of Gödel's Imcompleteness Theorem for statement of machines.
+Slides are [here](assets/pdf/cs3120-class28-ink.pdf).
+
+Quiz 13 is posted on Gradescope.
+
 ### Class 27: Implication of P vs NP
 (Apr 23, 2026)
 
-We discussed the implication of P vs NP.
-An important consequence is that almost all cryptography assume $$\mathbf{P} \neq \mathbf{NP}$$ at weakest (and it is possible we need stronger assumptions for crypto).
-Also, many other real-world combinatorial and optimization problems are NP-Complete. 
+We discussed the implications of P vs NP. 
+An important one is that almost all cryptography assumes $$\mathbf{P} \neq \mathbf{NP}$$ at weakest (and it is possible we need stronger assumptions for crypto). Also, many other real-world combinatorics and optimization problems are NP-Complete.
 In addition, some popular video/computer games are proven to be NP-Complete.
 We wrapped up with discussing graph 3-coloring problem and proving it NP-Complete.
 Slides are [here](assets/pdf/cs3120-class27-ink.pdf).
